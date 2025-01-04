@@ -5801,16 +5801,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 144.78) (xy 246.38 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09f2af60-a942-4402-be32-ad586dc56659")
-	)
-	(wire
-		(pts
 			(xy 119.38 58.42) (xy 129.54 58.42)
 		)
 		(stroke
@@ -5988,16 +5978,6 @@
 			(type default)
 		)
 		(uuid "17f81e29-dcd5-404f-9a92-f4f50eaff7c6")
-	)
-	(wire
-		(pts
-			(xy 246.38 147.32) (xy 248.92 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "183d84b2-292b-42b0-a995-2d1a9ff811c1")
 	)
 	(wire
 		(pts
@@ -7638,16 +7618,6 @@
 			(type default)
 		)
 		(uuid "c308dc17-6623-4510-838f-ea207e45730d")
-	)
-	(wire
-		(pts
-			(xy 254 152.4) (xy 254 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4c27069-05ad-43bb-88bf-df4d88a151f5")
 	)
 	(wire
 		(pts
@@ -10537,123 +10507,6 @@
 			(project "EfabExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Power_Protection:TPD1E05U06DPY")
-		(at 254 147.32 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0d0a943a-094f-4dce-b909-5fbd2a1a6829")
-		(property "Reference" "U3"
-			(at 250.698 143.002 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TPD1E05U06QDPYRQ1"
-			(at 256.794 144.018 0)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SON:Texas_DPY0002A_0.6x1mm_P0.65mm"
-			(at 249.555 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e05u06-q1.pdf"
-			(at 247.65 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "14V (Typ) Clamp 2.5A (8/20µs) Ipp Tvs Diode Surface Mount 2-X1SON (1x.60)"
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Characteristics" "TVS DIODE 5.5VWM 14VC 2X1SON"
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Variant" ""
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TPD1E05U06QDPYRQ1"
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN_ALT" "TPD1E05U06DPYR"
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigikeyPN" "296-47863-1-ND"
-			(at 254 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bfd3e787-fe1b-4986-a907-4de0285aec71")
-		)
-		(pin "1"
-			(uuid "8dc78ccb-83a5-419b-919a-d997b9119fd3")
-		)
-		(instances
-			(project "EfabExplain"
-				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
-					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13590,71 +13443,6 @@
 			(project "EfabExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 246.38 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6617d054-8e01-4888-9d03-5a42c1660462")
-		(property "Reference" "#PWR042"
-			(at 246.38 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 246.38 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 246.38 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7635555f-2ee7-47ed-be88-3dc560a0bdd5")
-		)
-		(instances
-			(project "EfabExplain"
-				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
-					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -18236,71 +18024,6 @@
 			(project "EfabExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 254 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f06a85d8-4eaf-4fd5-aa01-93b6f3bbec50")
-		(property "Reference" "#PWR045"
-			(at 254 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 254 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7e363f5-6336-4a1e-911a-2188d281a1bd")
-		)
-		(instances
-			(project "EfabExplain"
-				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
