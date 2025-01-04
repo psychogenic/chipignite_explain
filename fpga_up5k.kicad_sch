@@ -8574,6 +8574,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 66.04 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 66.04 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1f208fd-cd92-4bae-9eba-007147be4d43")
 		)
@@ -8747,6 +8765,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at -60.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -60.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3afa3a8b-24d9-4ca3-aa29-fe082eb53dcd")
 		)
@@ -8869,6 +8905,24 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "Field11" ""
+			(at 68.58 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 68.58 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9041,6 +9095,24 @@
 			)
 		)
 		(property "DigikeyPN" "478-KC2520Z24.0000C1KX00DKR-ND"
+			(at 27.94 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 27.94 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 27.94 149.86 0)
 			(effects
 				(font
@@ -9444,7 +9516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm "
+		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm"
 			(at 76.2 218.44 0)
 			(effects
 				(font
@@ -9491,6 +9563,24 @@
 			)
 		)
 		(property "DigikeyPN" "2223-TS09-63-25-R-260-SMT-TRCT-ND"
+			(at 68.58 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 68.58 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 68.58 220.98 0)
 			(effects
 				(font
@@ -9567,6 +9657,24 @@
 			)
 		)
 		(property "MPN" "ICE40UP5K-SG48ITR"
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 121.92 66.04 0)
 			(effects
 				(font
@@ -9820,6 +9928,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 161.29 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 161.29 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f0c09e7-c80a-4e71-9876-5a19a952bb12")
 		)
@@ -9991,6 +10117,24 @@
 			)
 		)
 		(property "DigikeyPN" ""
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 30.48 175.26 0)
 			(effects
 				(font
@@ -10208,6 +10352,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 167.64 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 167.64 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5c5b36c-d63b-4109-b9cc-fcda23bdd596")
 		)
@@ -10398,6 +10560,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 156.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 156.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3f49e24-1aff-4a19-9d4f-f640fc79186c")
 		)
@@ -10523,6 +10703,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 146.05 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 146.05 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47464ff2-5dc6-4b69-852f-dfe30468df1f")
 		)
@@ -10620,6 +10818,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 66.04 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 66.04 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f71c96a4-6eca-4a7e-827c-118f35ae92af")
 		)
@@ -10701,6 +10917,24 @@
 			)
 		)
 		(property "DigikeyPN" "1080-1552-1-ND"
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 73.66 167.64 0)
 			(effects
 				(font
@@ -10811,6 +11045,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Field11" ""
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 140.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11071,6 +11323,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 81.28 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 81.28 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3fb55db-510c-4e0a-b7c1-695be7692a6d")
 		)
@@ -11234,6 +11504,24 @@
 			)
 		)
 		(property "Characteristics" "C 0603 4u7"
+			(at -81.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -81.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -81.28 63.5 0)
 			(effects
 				(font
@@ -11525,6 +11813,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 151.13 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9e5cd0fe-fece-4053-91c7-96b0041dd6d0")
 		)
@@ -11595,6 +11901,24 @@
 			)
 		)
 		(property "MPN" "ICE40UP5K-SG48ITR"
+			(at 193.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 193.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 193.04 54.61 0)
 			(effects
 				(font
@@ -11867,6 +12191,24 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "Field11" ""
+			(at -92.71 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -92.71 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12192,6 +12534,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 203.2 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 203.2 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e75cf9cc-dd15-45ae-859d-de4741e386c1")
 		)
@@ -12411,6 +12771,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at -58.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -58.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c94e2151-8282-4ce7-9349-4089289a544d")
 		)
@@ -12603,6 +12981,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at -31.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -31.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ec53573-b8b5-4805-9315-44fb7717f479")
 		)
@@ -12729,7 +13125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm "
+		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm"
 			(at 205.74 133.35 0)
 			(effects
 				(font
@@ -12776,6 +13172,24 @@
 			)
 		)
 		(property "DigikeyPN" "2223-TS09-63-25-R-260-SMT-TRCT-ND"
+			(at 198.12 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 198.12 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 198.12 135.89 0)
 			(effects
 				(font
@@ -12975,6 +13389,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 208.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 208.28 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2b7c446-819c-41bf-8988-8ee8e318fd46")
 		)
@@ -13097,6 +13529,24 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(property "Field11" ""
+			(at 198.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 198.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13447,6 +13897,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 78.74 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 78.74 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0004883-ace1-4194-a827-59d40036ee2a")
 		)
@@ -13545,6 +14013,24 @@
 			)
 		)
 		(property "Characteristics" "C 0603 1u"
+			(at -55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -55.88 43.18 0)
 			(effects
 				(font
@@ -13715,6 +14201,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Field11" ""
+			(at 72.39 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 72.39 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13900,6 +14404,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at -63.5 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -63.5 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac08f1b1-db95-4abc-8c0c-9b0488a843f4")
 		)
@@ -14012,6 +14534,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 83.82 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 83.82 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7aa08fa-3430-4aa2-a575-75b5890e6754")
 		)
@@ -14105,6 +14645,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Field11" ""
+			(at 209.55 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 209.55 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14221,6 +14779,24 @@
 			)
 		)
 		(property "LCSC" "C460310"
+			(at -68.58 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -68.58 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -68.58 41.91 0)
 			(effects
 				(font
@@ -14420,6 +14996,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at -57.15 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -57.15 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd1713c8-730b-4828-bc89-dc1969a2dc40")
 		)
@@ -14479,6 +15073,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -14669,6 +15281,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 53.34 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 53.34 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "105bcd80-1ccd-47a7-b3f5-f6ad2b56fb7b")
 		)
@@ -14780,6 +15410,24 @@
 			)
 		)
 		(property "MPN" "1N4448WT"
+			(at -76.2 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -76.2 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -76.2 19.05 0)
 			(effects
 				(font
@@ -14904,6 +15552,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at -50.8 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -50.8 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bade4c56-0a91-498d-bf80-5eebce714413")
 		)
@@ -15015,6 +15681,24 @@
 			)
 		)
 		(property "LCSC" "C232582"
+			(at -76.2 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -76.2 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -76.2 26.67 0)
 			(effects
 				(font
@@ -15547,6 +16231,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 157.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 157.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c66d5c95-c560-4f34-848d-6cdf158e324d")
 		)
@@ -15802,6 +16504,24 @@
 				)
 			)
 		)
+		(property "Field11" ""
+			(at 34.29 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 34.29 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "171b62d7-d6fb-43c4-8a74-feabd1f1de0a")
 		)
@@ -15999,6 +16719,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at -91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -91.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae81082f-8bce-4149-8795-88196520b7d3")
 		)
@@ -16069,6 +16807,24 @@
 			)
 		)
 		(property "MPN" "ICE40UP5K-SG48ITR"
+			(at 55.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 55.88 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 55.88 62.23 0)
 			(effects
 				(font
@@ -16454,6 +17210,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 201.93 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 201.93 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "692b1d97-a602-4c8c-bc0e-4aa545d58c7f")
 		)
@@ -16573,6 +17347,24 @@
 				(font
 					(size 1 1)
 				)
+			)
+		)
+		(property "Field11" ""
+			(at 87.63 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 87.63 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16701,7 +17493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm "
+		(property "Description" "WS-TASV SMT Tact Switch 6.0x3.8 mm"
 			(at 165.1 133.35 0)
 			(effects
 				(font
@@ -16748,6 +17540,24 @@
 			)
 		)
 		(property "DigikeyPN" "2223-TS09-63-25-R-260-SMT-TRCT-ND"
+			(at 157.48 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 157.48 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 157.48 135.89 0)
 			(effects
 				(font
@@ -16879,6 +17689,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Field11" ""
+			(at -74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -74.93 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17165,6 +17993,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at -39.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at -39.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e3f8203-513a-4f50-812e-5152530f9db4")
 		)
@@ -17288,6 +18134,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "Field11" ""
+			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17475,6 +18339,24 @@
 				(font
 					(size 1 1)
 				)
+			)
+		)
+		(property "Field11" ""
+			(at 46.99 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 46.99 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -17711,6 +18593,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 87.63 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 87.63 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb184150-7810-4685-863e-67ff2ad68fd8")
 		)
@@ -17880,6 +18780,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field11" ""
+			(at 87.63 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 87.63 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5c0e282-a6c5-4149-a01d-4b9345503f02")
 		)
@@ -17948,6 +18866,24 @@
 			)
 		)
 		(property "MPN" "ICE40UP5K-SG48ITR"
+			(at 193.04 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 193.04 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 193.04 78.74 0)
 			(effects
 				(font
@@ -18314,6 +19250,24 @@
 				(justify left)
 			)
 		)
+		(property "Field11" ""
+			(at 101.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 101.6 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c35eee0-eb4b-4e7e-b123-6440d8e6d26a")
 		)
@@ -18431,6 +19385,24 @@
 			)
 		)
 		(property "MPN_ALT" ""
+			(at -85.09 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at -85.09 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at -85.09 43.18 0)
 			(effects
 				(font
@@ -18564,6 +19536,24 @@
 				(justify right)
 			)
 		)
+		(property "Field11" ""
+			(at 134.62 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 134.62 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a346d7b7-7c42-4e0c-a0c3-a5f27f650220")
 		)
@@ -18660,6 +19650,24 @@
 			)
 		)
 		(property "MPN_ALT" "WR04X1501FTL"
+			(at 73.66 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field11" ""
+			(at 73.66 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
 			(at 73.66 215.9 0)
 			(effects
 				(font
