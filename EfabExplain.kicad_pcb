@@ -4934,6 +4934,82 @@
 			)
 		)
 	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "17729329-5e37-4833-b413-231b43357972")
+		(at 87.9 75.2)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7d8de856-751a-4e43-8bd2-719edd49e5c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "787eb6c2-668a-44f5-abbb-9ca3a04bcdb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "affb2109-8ed7-40bd-bbd4-d7efc7f630eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d555a28b-8d6a-4e21-88ea-d8215d2bc2ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b12427b-00ae-40ef-af31-c83b1fd6bfc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "edb39e20-5d56-4595-953d-90f08197a77f")
+		)
+	)
 	(footprint "TinyTapeout:434121025816"
 		(layer "F.Cu")
 		(uuid "1b98f14d-6005-45d6-9a52-71732d47c0c1")
@@ -6619,6 +6695,82 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "2b848863-c77b-41e4-b5c3-134f70937e92")
+		(at 51.2 77.2)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "648f1203-ed6f-417f-afdc-f627d63aef1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3c13152-f003-4474-a86a-9c4dbfdaea45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a6d4da4-5768-4b72-85ed-93480bc6397b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "549c8511-8822-458e-8339-a1e3bf69765f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ff89b35-2daf-4629-bcd3-dd83183e6378")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "1eb74d0e-38b3-4b98-9229-3c3a8326d04f")
 		)
 	)
 	(footprint "Diode_SMD:D_SOD-523"
@@ -24483,6 +24635,158 @@
 			)
 		)
 	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "89387840-071f-4652-9ba1-48df6e9d55b8")
+		(at 91.4 49.8)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6db2caf0-3c58-4f75-bafa-cecfd70468d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "687bacb6-f92a-4cc9-895a-c428e7bb4638")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1796a1b-e26c-4829-988e-b04f8b5b433b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06582050-f6d9-493c-aa9c-84143b71d39b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a481bab-eb93-48ca-a04c-cc01b7359531")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "107d2387-a50b-44e2-8ab5-31b5b4309167")
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "8aa611d4-6659-4c09-a615-716d89f8e327")
+		(at 52 46.3)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2b88dc38-7c74-4dc4-9ae3-800478e5670c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9ece5cb-1f63-4988-868f-93299ea3df30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c3546ee-c047-4221-9fda-8a1a175c30ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7702fc6b-8f1b-4d7a-999b-2e0e4b2eb2ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98d874e5-086b-41c1-9532-151570257bcb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "9c7dd80b-7fe8-4b79-9281-8db6c3d25fba")
+		)
+	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "8bf3d780-c69e-40d6-aa79-92951f9ae976")
@@ -28028,6 +28332,82 @@
 			)
 		)
 	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "983045dd-fbad-4958-81bd-6024d3d58077")
+		(at 63.9 33.6)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a65a9c6a-c7b2-4a0e-829c-71318da16109")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b18bcd20-978d-471f-8982-a634c7a3b099")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e91ad0ad-c703-4c99-a777-753b8dbb0343")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9df5128-487c-47a9-8a15-bd2f6ec383af")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4314558b-f771-4394-ba7c-ae935b4f0a01")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "2767eea9-3ff7-45fd-b13e-69a58ebaa64a")
+		)
+	)
 	(footprint "Fuse:Fuse_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "9844e548-0981-499c-b0e3-73e037f0fd49")
@@ -28606,6 +28986,82 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "9cc4ace5-2cd8-4cd0-a4cd-89cec490b9cd")
+		(at 100.1 34.4)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6ed73830-caae-40d9-8e78-a2a58674487a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e5bf323-b51e-4e3d-9e91-d5ceecdfdc3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f416d36a-ee36-47c2-8d60-eb1b9b33fde9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "868d6fe6-bc31-4ab1-a544-c722999cbdc6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7224c35c-bc94-4b51-b5da-116c6df19e78")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "1a360fdb-0de2-4180-8b4c-febc0de48e0b")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
@@ -30235,6 +30691,158 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "a3d5ea99-b53a-45d5-8489-48edfd0b7624")
+		(at 52 48.8)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9dc67e72-95dd-42af-a665-3673c5cfc824")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f119aa9-e59c-48bf-baf0-77ecc6bb04bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03460488-a4bb-42ca-afca-1773404e4b2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "223bf483-d17a-445c-b900-81bb06a3fb3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12890487-870a-4a33-835c-97d23d7706c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "e625871e-dae3-440f-b0c5-e4a1b772a6b9")
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "a41bfa16-2258-43da-8c6f-24acdb231804")
+		(at 102.6 49.6)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9fb7383f-c80d-44ce-8b1e-954137713dfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d034bb17-3eca-466a-8243-85cc98299f47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a25e98d6-b5b6-4725-b1ab-eb1db3fbc906")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09642bd9-90e8-4186-92b1-effe2fb654dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9982de71-59fa-4520-8ebe-8f710f7b0697")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "999fb9fa-6db2-49ef-926d-34108988515c")
 		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
@@ -31923,6 +32531,82 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "a82c99c6-1be9-478d-9a92-81aaa676bfa9")
+		(at 66.8 75.3)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a5396217-182f-41fa-8e21-39c5b075c423")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ea05829-00b1-4e9a-ad11-1ccf734725f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "722e8ae1-2770-4e1c-a262-69ad0cd3494f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36d8cbb2-bf18-4320-b7d3-a6b4347eaceb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff45291d-0dab-484d-b85f-ba1a964d6941")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "9e7aaed2-5fde-4b75-8342-91e0e26dfb38")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
@@ -35831,6 +36515,82 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "bf03f750-4f43-48a4-9f80-5d3241fc3f9b")
+		(at 74.6 25.1)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d3a1d1da-8a20-4d68-9440-70200912ca47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e508eb8f-6513-4353-b263-5f865f01f3df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02616d6b-c2cb-46ea-a817-708a1b9557d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41fe3ded-529e-49f3-83d1-d5772bfd7dc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19d12aff-24c4-4e73-a987-e224a9086b09")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "340b5110-d9cf-45bf-a7f3-2b4a53f0b62f")
 		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
@@ -40727,6 +41487,82 @@
 			)
 		)
 	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "d840ef4e-9c3c-4251-8c62-1aa50762d3b3")
+		(at 65.5 31.4)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6a6424f0-302b-45ae-8a2b-9ab3d021f454")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "015a37d2-d680-4eb1-b3d7-8b5a60bc9e3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8edfbc62-3781-494c-867d-33ddf3970bd7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "310a8de1-f39c-4bb6-9350-bfd4cd94911d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5b78569-451f-4bc6-b149-3685a2454c80")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "bf5fe3ab-de97-4922-8b33-808f43e5f9b6")
+		)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "d9e01aef-1607-44c0-9ddf-4d39a51dec87")
@@ -44933,6 +45769,82 @@
 			)
 		)
 	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "ef12d22e-a1a3-4280-9f32-44e8ba370b57")
+		(at 64.6 77.3)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3d59d9a8-2bdc-4186-87f4-645d51ea2bf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c9895b8-c40e-4b8d-8612-915fa9883bde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8f5f8a4-9f07-438e-a03d-03153c19127d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae1c0537-f80d-411f-ac13-35c0e96e77e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7271e27b-0b64-4a5e-aca9-e0280e604c03")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "72991423-e6e1-435e-833b-71bd05cd255f")
+		)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f123eeee-51fe-4360-996c-79bcff23c338")
@@ -47846,6 +48758,158 @@
 			(rotate
 				(xyz 0 0 0)
 			)
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "fc61084a-3870-4045-a094-e46e1d0d9bfc")
+		(at 91.3 74.3)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6939ea52-55a1-4f15-9dc1-7602db493262")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "349b8aa2-1d1e-4883-8416-d29fbab3de7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1630faa-00f9-4c78-9763-095e7b9b6c88")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ec95e65-728f-46d7-82c2-bec9e6bd88ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23e8c8bb-ba38-4bfa-aa1d-6e825e00b6a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "6227658d-aa30-46ad-8ee0-c094a6121317")
+		)
+	)
+	(footprint "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+		(layer "F.Cu")
+		(uuid "ffe97338-e53b-4885-90c7-e954bb8ea1f9")
+		(at 51.2 31.8)
+		(property "Reference" "STCHG1"
+			(at 0.508 1.016 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8851f6b7-74f5-49a3-af61-4016957ee55c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "StitchingVia-0.4mmDrill"
+			(at 0 -1.016 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "655486b7-058a-426e-809f-8d29d2327be2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "flyingcarsfootprints:StitchingVia-0.4mmDrill"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fe42aa4-be38-408c-8d28-28a91e77d520")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2616bf9-2027-4148-971d-ec13cc0ced3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea6be7d2-fbff-4c92-83fa-4334193f5486")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 0.82 0.82)
+			(drill 0.4)
+			(layers "*.Cu")
+			(remove_unused_layers no)
+			(net 2 "GND")
+			(zone_connect 2)
+			(uuid "909a0e1c-b667-42ff-ba9d-283d253f68b7")
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Right"
