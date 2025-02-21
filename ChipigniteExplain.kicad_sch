@@ -30727,7 +30727,7 @@
 			(uuid "fffbd959-1638-40ce-9d33-2dd5e677d18c")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR035")
 					(unit 1)
@@ -30888,7 +30888,7 @@
 			(uuid "b78ca69a-3f55-4d53-9157-fcc9d33032b8")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C11")
 					(unit 1)
@@ -30953,7 +30953,7 @@
 			(uuid "34d6d133-09d6-4ca3-add1-d4e8f8d23811")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0128")
 					(unit 1)
@@ -31078,7 +31078,7 @@
 			(uuid "c5801e00-e030-4eae-805b-f7ef65566378")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C52")
 					(unit 1)
@@ -31145,7 +31145,7 @@
 			(uuid "6e7ebcec-eb4f-4420-8db3-e6f995f4f644")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#FLG02")
 					(unit 1)
@@ -31290,7 +31290,7 @@
 			(uuid "cd0be1f4-dc07-4623-b560-179fdde3ea8d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J7")
 					(unit 1)
@@ -31554,7 +31554,7 @@
 			(uuid "4b7aa3f9-4dc7-4acc-be5c-8f689e6fd5c8")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R2")
 					(unit 1)
@@ -31640,7 +31640,7 @@
 			(uuid "fc097537-873c-486f-9a0d-55a062fb0104")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R35")
 					(unit 1)
@@ -31791,7 +31791,7 @@
 			(uuid "f2e7a933-3c04-4012-816d-910afe0f2d83")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J2")
 					(unit 1)
@@ -31856,7 +31856,7 @@
 			(uuid "04a7358e-3590-4acc-a172-e1297f2c228d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR08")
 					(unit 1)
@@ -31989,7 +31989,7 @@
 			(uuid "e61ae18d-666a-4eeb-8e74-443d54f72f79")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R3")
 					(unit 1)
@@ -32056,7 +32056,7 @@
 			(uuid "99aa6010-04f9-46c2-b5fa-609814d4bfb9")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR032")
 					(unit 1)
@@ -32234,7 +32234,7 @@
 			(uuid "f0fdfdf6-7990-4d34-b298-50929d823d81")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C3")
 					(unit 1)
@@ -32366,7 +32366,7 @@
 			(uuid "e36fdd79-47f1-4dac-9fb9-a259f084290b")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C10")
 					(unit 1)
@@ -32432,7 +32432,7 @@
 			(uuid "7d88f86d-0ca5-47b9-a302-03187dd4a02c")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0124")
 					(unit 1)
@@ -32499,7 +32499,7 @@
 			(uuid "dfa1c6f4-54af-4cb6-9700-bcdcdf354fd4")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR033")
 					(unit 1)
@@ -32661,7 +32661,7 @@
 			(uuid "b22125d8-e4f4-4aa7-8b4a-38dcf484bf18")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C50")
 					(unit 1)
@@ -32809,7 +32809,7 @@
 			(uuid "9f38b8a9-e9e0-4a46-851d-931a412ddd20")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR041")
 					(unit 1)
@@ -32874,7 +32874,7 @@
 			(uuid "204bd45d-d898-4f7f-9fe6-075ea35e8dda")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR027")
 					(unit 1)
@@ -32960,7 +32960,7 @@
 			(uuid "efb576a3-6af5-459b-ae5b-b40d2a8c8157")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R48")
 					(unit 1)
@@ -33026,7 +33026,7 @@
 			(uuid "c81194ad-026c-49a7-be68-280a37719081")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR037")
 					(unit 1)
@@ -33108,7 +33108,7 @@
 			)
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "FID2")
 					(unit 1)
@@ -33175,7 +33175,7 @@
 			(uuid "020ca7c2-435a-41d3-b235-04c0fef7c43b")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR034")
 					(unit 1)
@@ -33240,7 +33240,7 @@
 			(uuid "782ff01e-ed7f-46a8-98a4-6aae3c41c58d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0121")
 					(unit 1)
@@ -33305,7 +33305,7 @@
 			(uuid "aabef100-1d29-4666-b5bf-71d104567d36")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0127")
 					(unit 1)
@@ -33488,7 +33488,7 @@
 			(uuid "b98b50fb-063e-4d97-8483-c73e5475323f")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "U3")
 					(unit 1)
@@ -33553,7 +33553,7 @@
 			(uuid "a7e024c6-b28a-4dd7-a853-56b1eb02473d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR026")
 					(unit 1)
@@ -33618,7 +33618,7 @@
 			(uuid "b3fbd0ac-11ef-44a8-98a5-077f25e5a646")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR029")
 					(unit 1)
@@ -33683,7 +33683,7 @@
 			(uuid "e702cf7f-e349-4435-a01e-16e98917b106")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR02")
 					(unit 1)
@@ -33816,7 +33816,7 @@
 			(uuid "b6bbf6be-19a4-4f11-ad02-40d5bab3f286")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D3")
 					(unit 1)
@@ -33902,7 +33902,7 @@
 			(uuid "439ae864-f28a-4f09-b0f0-4d86aeddebed")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R45")
 					(unit 1)
@@ -34065,7 +34065,7 @@
 			(uuid "59a4ae40-8005-4979-9157-e40c40a5e7c2")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "Q1")
 					(unit 1)
@@ -34207,7 +34207,7 @@
 			(uuid "7a8d8e93-3c5a-4a68-a9bc-da11401c26e8")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R8")
 					(unit 1)
@@ -34358,7 +34358,7 @@
 			(uuid "6c2f3469-ae15-42de-a76b-72d9f9702942")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J1")
 					(unit 1)
@@ -34423,7 +34423,7 @@
 			(uuid "b3f626c3-6257-4834-9e9f-9684738a448e")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR047")
 					(unit 1)
@@ -34591,7 +34591,7 @@
 			(uuid "be714048-d0ec-49c2-acd3-3f7d66177395")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C1")
 					(unit 1)
@@ -34656,7 +34656,7 @@
 			(uuid "415a174e-9333-4b5f-8847-b3f5e1282e89")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR06")
 					(unit 1)
@@ -34721,7 +34721,7 @@
 			(uuid "c508a764-d4d2-44d0-8c46-a6c30d9b843f")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR010")
 					(unit 1)
@@ -34786,7 +34786,7 @@
 			(uuid "d2cd09a2-0e3e-4cd6-aea5-7ce483a827c1")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0132")
 					(unit 1)
@@ -34852,7 +34852,7 @@
 			(uuid "211a0b11-5327-4cb5-89d0-2024bb372df0")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0125")
 					(unit 1)
@@ -34918,7 +34918,7 @@
 			(uuid "8f15ba5f-6181-4100-995f-6e1d65c5ce06")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0126")
 					(unit 1)
@@ -35006,7 +35006,7 @@
 			(uuid "d5623488-a369-429e-96b0-aeb6dae8cb26")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R32")
 					(unit 1)
@@ -35071,7 +35071,7 @@
 			(uuid "2408e513-9f85-4b81-96a4-ccdbfe3af5e4")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0129")
 					(unit 1)
@@ -35157,7 +35157,7 @@
 			(uuid "99d4fd73-3eb1-4a40-8177-172a9a11022c")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R43")
 					(unit 1)
@@ -35222,7 +35222,7 @@
 			(uuid "4e4e1dcd-9fef-4929-a48a-3c3340296de9")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR05")
 					(unit 1)
@@ -35287,7 +35287,7 @@
 			(uuid "f5360a3d-af4c-4834-9f80-11e0e59d32e4")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR044")
 					(unit 1)
@@ -35352,7 +35352,7 @@
 			(uuid "12f0b86b-a10b-47b8-ba73-d420c1c41867")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR025")
 					(unit 1)
@@ -35418,7 +35418,7 @@
 			(uuid "ef9908f7-2e85-4b34-92b2-10ee9027a22b")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR045")
 					(unit 1)
@@ -35719,7 +35719,7 @@
 			(uuid "24934d6a-ae14-4e94-8a28-0f020cfb2a96")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "F1")
 					(unit 1)
@@ -35805,7 +35805,7 @@
 			(uuid "e8726305-a679-4324-a56d-5a19da848ca1")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R39")
 					(unit 1)
@@ -35891,7 +35891,7 @@
 			(uuid "be484cd4-a4d5-410b-8377-27bef66d400a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R47")
 					(unit 1)
@@ -35958,7 +35958,7 @@
 			(uuid "c15fe815-46b3-4d4c-a5c3-e920a7955231")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR024")
 					(unit 1)
@@ -36101,7 +36101,7 @@
 			(uuid "63ae08a9-503e-4e8a-a3dc-89978ca06001")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "SW1")
 					(unit 1)
@@ -36187,7 +36187,7 @@
 			(uuid "f5ec2709-4770-481b-a5c4-01aacb1e693a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R37")
 					(unit 1)
@@ -36348,7 +36348,7 @@
 			(uuid "27f6ed73-99cd-488f-888b-47b04873191a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C49")
 					(unit 1)
@@ -36434,7 +36434,7 @@
 			(uuid "feb07e2c-9ee0-4b8d-b1f5-4e0d3cc6ebba")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R41")
 					(unit 1)
@@ -36594,7 +36594,7 @@
 			(uuid "401af10c-6069-4204-a4bc-1fda4acb20e6")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D2")
 					(unit 1)
@@ -36754,7 +36754,7 @@
 			(uuid "fe34868d-4b0b-4067-85ca-9d48f3f88b8a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R6")
 					(unit 1)
@@ -36819,7 +36819,7 @@
 			(uuid "62f8a2cd-5481-4502-948e-80aacaf89f39")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR028")
 					(unit 1)
@@ -36989,7 +36989,7 @@
 			(uuid "20654232-6f0c-419f-8bea-d9c8f7d4b2d9")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C9")
 					(unit 1)
@@ -37054,7 +37054,7 @@
 			(uuid "89800cc9-5c9a-4555-95e2-0d2670981b5d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR019")
 					(unit 1)
@@ -37120,7 +37120,7 @@
 			(uuid "afbe2e45-0a77-49b2-92cd-53953b175652")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR040")
 					(unit 1)
@@ -37186,7 +37186,7 @@
 			(uuid "8fa664a5-da0d-4f59-aeff-a03ef744b596")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR046")
 					(unit 1)
@@ -37356,7 +37356,7 @@
 			(uuid "e8f2c033-9c02-4325-95fe-ee184b09d85f")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C7")
 					(unit 1)
@@ -37526,7 +37526,7 @@
 			(uuid "b72c4d6f-d6b0-4705-882a-7f0901554671")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C8")
 					(unit 1)
@@ -37667,7 +37667,7 @@
 			(uuid "8efe8a30-d5b1-4d8b-a45a-b71289886632")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D9")
 					(unit 1)
@@ -37869,7 +37869,7 @@
 			(uuid "af5f3d81-46dc-47fb-b6bb-19a7a54ab2f0")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J4")
 					(unit 1)
@@ -37934,7 +37934,7 @@
 			(uuid "91907b93-646a-4d40-aa86-598fe09ae1b7")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0130")
 					(unit 1)
@@ -38020,7 +38020,7 @@
 			(uuid "35f5416f-2966-4c3d-9a06-dbdd62d58965")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R49")
 					(unit 1)
@@ -38219,7 +38219,7 @@
 			(uuid "91100328-c3a5-493c-ab7b-8c7dd94526ae")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "SW6")
 					(unit 1)
@@ -38368,7 +38368,7 @@
 			(uuid "35e84889-39ce-40df-b0fd-b1e2d4850123")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R4")
 					(unit 1)
@@ -38516,7 +38516,7 @@
 			(uuid "154fecc0-6f64-4794-b057-fd98f34e0a20")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "SW2")
 					(unit 1)
@@ -38581,7 +38581,7 @@
 			(uuid "53514084-f1ba-4609-bee8-19d10587909c")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0115")
 					(unit 1)
@@ -38698,7 +38698,7 @@
 			(uuid "ce93ca85-0a5a-4122-82b4-a9db0a7370a4")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "J5")
 					(unit 1)
@@ -38866,7 +38866,7 @@
 			(uuid "b92f2f55-b355-4099-822e-9ca277b9cce6")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C2")
 					(unit 1)
@@ -38931,7 +38931,7 @@
 			(uuid "b89894a7-2009-47b6-83dd-912a44b08d8e")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR07")
 					(unit 1)
@@ -39016,7 +39016,7 @@
 			(uuid "1289672e-dda9-4b43-b6e1-13c95710e85a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "H2")
 					(unit 1)
@@ -39102,7 +39102,7 @@
 			(uuid "b3c1cdd5-65f7-42e9-a6d1-4a5ab61ef03f")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R46")
 					(unit 1)
@@ -39365,7 +39365,7 @@
 			(uuid "0f5df7db-ef33-4e62-950c-e33bcfbf63f6")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C5")
 					(unit 1)
@@ -39430,7 +39430,7 @@
 			(uuid "98945475-644a-4001-8d73-bd65d68087cb")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR050")
 					(unit 1)
@@ -39516,7 +39516,7 @@
 			(uuid "802d8e81-d5e4-4687-9a93-6f1c0da31bfa")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R38")
 					(unit 1)
@@ -39657,7 +39657,7 @@
 			(uuid "f4496276-b785-4755-b6c3-5feeba4f01a1")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D8")
 					(unit 1)
@@ -39723,7 +39723,7 @@
 			(uuid "df229b3c-8c56-48fd-91cb-dea95935c067")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0123")
 					(unit 1)
@@ -39788,7 +39788,7 @@
 			(uuid "28631244-e2df-4fbf-b566-246e4f454955")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0117")
 					(unit 1)
@@ -39874,7 +39874,7 @@
 			(uuid "fc097537-873c-486f-9a0d-55a062fb0105")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R36")
 					(unit 1)
@@ -39939,7 +39939,7 @@
 			(uuid "58717b14-fc82-4327-8855-68bee6a610a2")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR036")
 					(unit 1)
@@ -40027,7 +40027,7 @@
 			(uuid "226afeeb-82e5-4b8f-b22c-95de343579dc")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R33")
 					(unit 1)
@@ -40092,7 +40092,7 @@
 			(uuid "1a26dc7a-6613-490b-9a5f-136af5747b66")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR030")
 					(unit 1)
@@ -40157,7 +40157,7 @@
 			(uuid "f21d6189-48b2-4abe-8fcf-975f1c605abb")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR043")
 					(unit 1)
@@ -40243,7 +40243,7 @@
 			(uuid "da13a2d3-2f81-4682-9993-28d8fd4807c6")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R44")
 					(unit 1)
@@ -40308,7 +40308,7 @@
 			(uuid "162602ea-40a1-4b1b-a015-5fd2880022c9")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR01")
 					(unit 1)
@@ -40373,7 +40373,7 @@
 			(uuid "d1e27537-5f1c-4ac0-a636-8e148520e94c")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0133")
 					(unit 1)
@@ -40543,7 +40543,7 @@
 			(uuid "da90ac03-099a-4556-bfcb-1368d602793d")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C6")
 					(unit 1)
@@ -40610,7 +40610,7 @@
 			(uuid "b7d721a3-6a0b-45d6-9e4f-178ec1119e2a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR022")
 					(unit 1)
@@ -41048,7 +41048,7 @@
 			(uuid "f71a0fd0-f2c4-41ac-9ff2-d905546254e5")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR014")
 					(unit 1)
@@ -41134,7 +41134,7 @@
 			(uuid "fe94e67b-17b3-46b3-84a7-958cc1990df5")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R34")
 					(unit 1)
@@ -41284,7 +41284,7 @@
 			(uuid "11f712b3-cace-44c6-b255-d314bcac8254")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR039")
 					(unit 1)
@@ -41485,7 +41485,7 @@
 			)
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "FID3")
 					(unit 1)
@@ -41571,7 +41571,7 @@
 			(uuid "547e6ea3-c52a-4150-97a9-69fea3d897c2")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "H3")
 					(unit 1)
@@ -41636,7 +41636,7 @@
 			(uuid "a6e3dc98-b359-4c29-92f5-2de795a9832b")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR09")
 					(unit 1)
@@ -41722,7 +41722,7 @@
 			(uuid "428b9d4e-b985-45ea-8064-4ad6e7b73fbc")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R40")
 					(unit 1)
@@ -41789,7 +41789,7 @@
 			(uuid "702e7d70-fc1c-4caf-9552-4baf1441e273")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#FLG01")
 					(unit 1)
@@ -41856,7 +41856,7 @@
 			(uuid "8362dcc2-1ab8-4933-aea0-d79f1ed417cf")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR023")
 					(unit 1)
@@ -41942,7 +41942,7 @@
 			(uuid "e8e25316-3890-498f-9e46-8b94611a72f2")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "R42")
 					(unit 1)
@@ -42095,7 +42095,7 @@
 			(uuid "5bda1e46-a887-454c-b337-c70573f4d829")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR020")
 					(unit 1)
@@ -42160,7 +42160,7 @@
 			(uuid "75be1d04-5e7f-4ca3-bd1f-5bdf90156eee")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR049")
 					(unit 1)
@@ -42225,7 +42225,7 @@
 			(uuid "f5e0d654-3cb1-4519-8a90-1de914b9fd51")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR048")
 					(unit 1)
@@ -42482,7 +42482,7 @@
 			(uuid "8b44d0df-3fcc-497a-9128-42ec8ebbea59")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "C4")
 					(unit 1)
@@ -42621,7 +42621,7 @@
 			(uuid "764a171d-0f28-4007-a1bf-02065852a363")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "FB1")
 					(unit 1)
@@ -42687,7 +42687,7 @@
 			(uuid "e780985c-1d5d-4467-a678-1268713ae1cd")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR042")
 					(unit 1)
@@ -42753,7 +42753,7 @@
 			(uuid "f3e15391-7e40-4a89-b777-4b600a7f3f11")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0122")
 					(unit 1)
@@ -42913,7 +42913,7 @@
 			(uuid "21e725ce-3625-4835-8834-df53b17bdf50")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D1")
 					(unit 1)
@@ -42978,7 +42978,7 @@
 			(uuid "db5e16f8-4e81-45d8-b8ea-c549e7d338e9")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR04")
 					(unit 1)
@@ -43113,7 +43113,7 @@
 			(uuid "7f676dad-45a0-4c51-b331-fc8d9074e206")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "U2")
 					(unit 1)
@@ -43180,7 +43180,7 @@
 			(uuid "a4b0cabd-02b1-4a07-b956-b88fdb67e7b4")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR021")
 					(unit 1)
@@ -43245,7 +43245,7 @@
 			(uuid "26ef1515-d0c5-4f31-970c-e48fea78be8f")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR038")
 					(unit 1)
@@ -43312,7 +43312,7 @@
 			(uuid "13c29ef0-063c-425a-b7ae-c8139dab9710")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#FLG03")
 					(unit 1)
@@ -43453,7 +43453,7 @@
 			(uuid "0d4545da-79bd-4074-aac0-c469b120d0fc")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "D10")
 					(unit 1)
@@ -43762,7 +43762,7 @@
 			(uuid "4357ba6b-e8e4-4076-aa43-63b6477fdc82")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR031")
 					(unit 1)
@@ -43827,7 +43827,7 @@
 			(uuid "402a744d-8c69-4154-9f3d-5cb07a64fa7a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR0131")
 					(unit 1)
@@ -43970,7 +43970,7 @@
 			(uuid "63c1aaf7-254d-42fc-86c6-e8fcce0977ed")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "U1")
 					(unit 1)
@@ -44035,7 +44035,7 @@
 			(uuid "336c4079-700a-4316-91bc-85dce79f220a")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(reference "#PWR03")
 					(unit 1)
@@ -44463,7 +44463,7 @@
 			(uuid "2b56c55e-4802-4b21-bd78-4a3f10abfc46")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(page "3")
 				)
@@ -44630,7 +44630,7 @@
 			(uuid "275d3c2e-7cf1-47ec-b19c-22f7999b6e67")
 		)
 		(instances
-			(project "EfabExplain"
+			(project "ChipigniteExplain"
 				(path "/8232fe65-a587-4d29-b8c3-2d615f022bd8"
 					(page "5")
 				)

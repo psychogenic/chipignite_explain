@@ -865,7 +865,7 @@
 		(property ki_fp_filters "SOT?223* SOT?89* TO?220* TO?252* TO?263*")
 		(path "/fc621a5c-fbaa-4edb-b049-7a188b006cd3")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.91 3.41)
@@ -1245,7 +1245,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4cb9417c-a860-4a81-b872-9ff8d4d9b338")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -1666,7 +1666,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0900ca12-60b2-4439-ac64-56e2c96dfc26")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -2211,7 +2211,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a9ab21d4-54a3-485d-b086-5002c581febb")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -3073,7 +3073,7 @@
 		)
 		(path "/83aad5e3-e62f-4136-9437-9c2a4e61c64c")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.1 2.05)
@@ -3727,7 +3727,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1a31cf57-1543-4f61-9974-75fe3892c51d")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -4756,7 +4756,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c3544dc4-cf9e-4f94-970b-2c42334febd3")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5399,7 +5399,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7a81e994-f350-4ce9-9d25-ba31771a7ac8")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -6562,7 +6562,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0a030382-bc51-4a2b-b579-3c549147ca7d")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -7379,7 +7379,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6c9ee16c-bb35-43ef-8883-7cffcc521df7")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -7924,7 +7924,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c62fb53a-5119-4e8d-a074-33d4019ec9ba")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -9763,7 +9763,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b66d6703-1280-48e4-8e50-5af1ccf44c27")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -13056,7 +13056,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/bee1168e-b9a7-4e9d-bf40-2beac23591c3")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -13276,7 +13276,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/679fcaab-72c0-4997-8798-3dba3b9070fa")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -13516,7 +13516,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/28306c13-67f1-43e2-bb2f-5f3bb8afc558")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -13963,7 +13963,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/2aac3e48-c0ba-4cbc-811b-b77fe59e49dc")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -14560,7 +14560,7 @@
 		)
 		(path "/65ead6c8-f27c-4900-888a-f083415a054e")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.1 -2.05)
@@ -15386,7 +15386,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1209759e-3ab8-47a4-af4e-8f4ae938ebd0")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -15626,7 +15626,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6e4515aa-c7b3-4b04-8471-5f1c9995f482")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -16386,7 +16386,7 @@
 		)
 		(path "/4002fdb8-5f94-4b22-82f5-f51dd8c18495")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -16772,7 +16772,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/82a8751b-1a4f-46d2-848f-c788cb2fd870")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -17127,7 +17127,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f5b34d6d-2537-4c39-b38b-706359aa42b7")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -17711,7 +17711,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c9a79d4b-233d-46c6-94e8-02d1e7298546")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -19206,7 +19206,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/913779eb-f9e8-4914-a59b-cbb0298861a2")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -20946,7 +20946,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3781203e-e5cc-475a-baa7-ff9f87c2ceb8")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -22436,7 +22436,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/16fe8ab1-93dc-4b9a-b984-6bbca118f45e")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -23248,7 +23248,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/c23913cf-7a50-48c7-ba8e-3a62b72e9736")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -23389,7 +23389,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/81aa4d90-3d91-4be5-b1fd-1624ab348886")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -23629,7 +23629,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a19e3b52-cec6-4a27-8cd7-a96e86e447f2")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -23947,7 +23947,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b3b315c-81f8-44d9-af35-f4b90291b201")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -25017,7 +25017,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/11019d0e-f638-439c-94e5-0dfdd24a3d3e")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -25333,7 +25333,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/be81225b-f77d-48d2-97bd-5569e6370697")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -25573,7 +25573,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/90ea7467-0d32-4069-9f73-ea93f5ddb389")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -25813,7 +25813,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/acb56f64-1be4-446d-b9cd-2a9f16c2fd89")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -26053,7 +26053,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8d97d72b-1335-48bb-88e8-d537c6d29b08")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -26263,7 +26263,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0ffc5bb1-df68-4650-bc99-796f05712c1c")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -27236,7 +27236,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/e2c0cd2c-4c3b-4975-b912-a024d625a664")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -27685,7 +27685,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/63c1bf1b-1c14-45d0-a217-11d7ccfa4c43")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -28740,7 +28740,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4a4d7ae5-8adb-4db4-a553-c3b8810604ca")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -30412,7 +30412,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/94238599-1554-4bd5-8942-7de38c60288d")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -31330,7 +31330,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4078cdbe-2b61-448f-9b8d-c8b03d5e0213")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -31724,7 +31724,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a5ef0beb-d7ec-459e-853d-9d828acb58bf")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -32474,7 +32474,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bdcfeed3-8de3-4286-9e2f-fc9ed39ba98a")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -32816,7 +32816,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/7bf95b0e-a43c-4dfb-9b40-fc52e5ce0952")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.7 2)
@@ -33398,7 +33398,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b878ca2f-d788-4586-b72b-7e06eca25376")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
@@ -34083,7 +34083,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d153c923-8d2a-4d57-b2a1-c83c95131ff4")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -35193,7 +35193,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/6345e1c6-a023-4cef-81ef-c753cdc2f65c")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.258578 0.71)
@@ -35889,7 +35889,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/42ad7bbe-8466-4974-be2b-f5a81734c4cf")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -38078,7 +38078,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/71b80c5f-787a-409c-947d-221ceac51289")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -38561,7 +38561,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1fdd6764-c792-4908-94f2-e3c7291294f0")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -38801,7 +38801,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/635029b0-9c81-4818-873f-f0e5fc880501")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -39037,7 +39037,7 @@
 		)
 		(path "/87abd0dd-5f0a-49eb-9ca9-f679f8028f2d")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.11 -1.33)
@@ -41117,7 +41117,7 @@
 		(property ki_fp_filters "KCSC02?106*")
 		(path "/34d41a3d-1744-480c-8b3a-3e97b723ebcc")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 6 -4)
@@ -41744,7 +41744,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c1bb7dbd-e07e-4a65-b68e-e505d105ee4d")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
@@ -42498,7 +42498,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6f66e47e-2e21-456c-9bb8-dec47609e919")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -42816,7 +42816,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/381e2381-c008-40e9-9039-2192f6473586")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -43746,7 +43746,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/41101e6e-5fb1-47eb-98e8-abb11f8c2ef2")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 -1.33)
@@ -44526,7 +44526,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1b3196a0-16b4-4565-a916-5b7ba7e2aefa")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -45633,7 +45633,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/20cd6815-7d9c-4c4b-9e0f-cce8497e8d42")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -45774,7 +45774,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ca42f692-3aa3-4d93-a7b9-05ad9424b929")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -46132,7 +46132,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/75c116b2-6a90-480d-9a63-f6e1284cb901")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
@@ -46478,7 +46478,7 @@
 		(property ki_fp_filters "SW?DIP?x8*")
 		(path "/82149cfc-6723-451c-a737-7aeaae767f84")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.6 -11.4)
@@ -48101,7 +48101,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ba63ba84-2365-4ba9-8f95-e8f42945fbb7")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -49661,7 +49661,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/0c9c930c-9efb-41e6-aa72-71bbc4047e03")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start 3.87 -1.33)
@@ -50137,7 +50137,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/87b80a2a-c6df-4721-bb26-f6facf73c47e")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -50647,7 +50647,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7a572dd5-e950-425d-b40e-d5262ab41dbe")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
@@ -51527,7 +51527,7 @@
 		(property ki_fp_filters "Texas*DPY0002A*")
 		(path "/e8e92835-677d-48e4-9a98-f2682af0f28b")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center -0.8 0)
@@ -51729,7 +51729,7 @@
 		)
 		(path "/f07c0d2f-8cb8-4b7c-913e-c5120b46497c")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.11 -1.33)
@@ -53517,7 +53517,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/61484fed-14dd-4ce5-9c02-e9ac970184b0")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -54787,7 +54787,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ed4fb29a-a3e3-4f2d-93a7-3df2987c3af0")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -58020,7 +58020,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1224b9e0-48f2-4ea2-bff0-7d7cec6ba850")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start 1.33 -2.6)
@@ -58904,7 +58904,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/d4d65100-0b16-4f65-b9ee-c44f70627c21")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.162779 0.51)
@@ -59554,7 +59554,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d01e8360-6fdb-4201-88ec-1cccd8a10628")
 		(sheetname "Root")
-		(sheetfile "EfabExplain.kicad_sch")
+		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
