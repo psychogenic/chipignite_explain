@@ -5794,12 +5794,12 @@
 		)
 		(uuid "16babe8e-6bbe-4f2d-bc4e-5b21816d6676")
 	)
-	(text "RP2040 Basic Support"
+	(text "RP2040 and Support"
 		(exclude_from_sim no)
-		(at 129.54 17.78 0)
+		(at 102.87 20.066 0)
 		(effects
 			(font
-				(size 3 3)
+				(size 5 5)
 				(thickness 0.6)
 				(bold yes)
 			)
@@ -6056,7 +6056,6 @@
 	)
 	(label "QSPI_SS"
 		(at 35.56 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6067,7 +6066,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 85.09 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6078,7 +6076,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 97.79 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6089,7 +6086,6 @@
 	)
 	(label "RUN"
 		(at 30.48 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6100,7 +6096,6 @@
 	)
 	(label "RUN"
 		(at 76.2 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6111,7 +6106,6 @@
 	)
 	(label "CLKO2"
 		(at 63.5 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6122,7 +6116,6 @@
 	)
 	(label "DVDD"
 		(at 106.68 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6133,7 +6126,6 @@
 	)
 	(label "DVDD"
 		(at 149.86 165.1 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6144,7 +6136,6 @@
 	)
 	(label "IOVDD"
 		(at 73.66 38.1 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6155,7 +6146,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 27.94 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6166,7 +6156,6 @@
 	)
 	(label "IOVDD"
 		(at 119.38 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6177,7 +6166,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 73.66 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6188,7 +6176,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 73.66 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6199,7 +6186,6 @@
 	)
 	(label "IOVDD"
 		(at 38.1 22.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6210,7 +6196,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 97.79 175.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6221,7 +6206,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 73.66 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6232,7 +6216,6 @@
 	)
 	(label "QSPI_SD2"
 		(at 73.66 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6243,7 +6226,6 @@
 	)
 	(label "IOVDD"
 		(at 106.68 157.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6254,7 +6236,6 @@
 	)
 	(label "QSPI_SS"
 		(at 43.18 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6265,7 +6246,6 @@
 	)
 	(label "QSPI_SD1"
 		(at 35.56 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6276,7 +6256,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 73.66 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6287,7 +6266,6 @@
 	)
 	(label "QSPI_SD0"
 		(at 38.1 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6298,7 +6276,6 @@
 	)
 	(label "CLKIN"
 		(at 68.58 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6309,7 +6286,6 @@
 	)
 	(label "CLKO1"
 		(at 77.47 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6320,7 +6296,6 @@
 	)
 	(label "IOVDD"
 		(at 71.12 154.94 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6331,7 +6306,6 @@
 	)
 	(label "QSPI_SS"
 		(at 27.94 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6342,7 +6316,6 @@
 	)
 	(label "QSPI_SS"
 		(at 73.66 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6353,7 +6326,6 @@
 	)
 	(label "IOVDD"
 		(at 111.76 33.02 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6364,7 +6336,6 @@
 	)
 	(label "IOVDD"
 		(at 25.4 157.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6375,7 +6346,6 @@
 	)
 	(label "QSPI_CLK"
 		(at 35.56 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6386,7 +6356,6 @@
 	)
 	(label "IOVDD"
 		(at 50.8 154.94 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6397,7 +6366,6 @@
 	)
 	(label "QSPI_SD3"
 		(at 85.09 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6409,7 +6377,6 @@
 	(hierarchical_label "GPIO26{slash}AD0"
 		(shape bidirectional)
 		(at 137.16 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6421,7 +6388,6 @@
 	(hierarchical_label "GPIO0"
 		(shape bidirectional)
 		(at 137.16 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6433,7 +6399,6 @@
 	(hierarchical_label "GPIO4"
 		(shape bidirectional)
 		(at 137.16 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6445,7 +6410,6 @@
 	(hierarchical_label "GPIO25"
 		(shape bidirectional)
 		(at 137.16 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6457,7 +6421,6 @@
 	(hierarchical_label "BOOT_MODE"
 		(shape input)
 		(at 33.02 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6469,7 +6432,6 @@
 	(hierarchical_label "GPIO15"
 		(shape bidirectional)
 		(at 137.16 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6481,7 +6443,6 @@
 	(hierarchical_label "ADC_AVDD"
 		(shape passive)
 		(at 116.84 40.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6493,7 +6454,6 @@
 	(hierarchical_label "GPIO10"
 		(shape bidirectional)
 		(at 137.16 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6505,7 +6465,6 @@
 	(hierarchical_label "GPIO13"
 		(shape bidirectional)
 		(at 137.16 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6517,7 +6476,6 @@
 	(hierarchical_label "GPIO14"
 		(shape bidirectional)
 		(at 137.16 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6529,7 +6487,6 @@
 	(hierarchical_label "GPIO18"
 		(shape bidirectional)
 		(at 137.16 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6541,7 +6498,6 @@
 	(hierarchical_label "GPIO24"
 		(shape bidirectional)
 		(at 137.16 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6553,7 +6509,6 @@
 	(hierarchical_label "SWDIO"
 		(shape bidirectional)
 		(at 81.28 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6565,7 +6520,6 @@
 	(hierarchical_label "USB_D+"
 		(shape bidirectional)
 		(at 81.28 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6577,7 +6531,6 @@
 	(hierarchical_label "GPIO16"
 		(shape bidirectional)
 		(at 137.16 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6589,7 +6542,6 @@
 	(hierarchical_label "SWCLK"
 		(shape input)
 		(at 81.28 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6601,7 +6553,6 @@
 	(hierarchical_label "GPIO27{slash}AD1"
 		(shape bidirectional)
 		(at 137.16 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6613,7 +6564,6 @@
 	(hierarchical_label "GPIO5"
 		(shape bidirectional)
 		(at 137.16 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6625,7 +6575,6 @@
 	(hierarchical_label "GPIO28{slash}AD2"
 		(shape bidirectional)
 		(at 137.16 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6637,7 +6586,6 @@
 	(hierarchical_label "USB_D-"
 		(shape bidirectional)
 		(at 81.28 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6649,7 +6597,6 @@
 	(hierarchical_label "USB_VDD"
 		(shape passive)
 		(at 114.3 40.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6661,7 +6608,6 @@
 	(hierarchical_label "GPIO6"
 		(shape bidirectional)
 		(at 137.16 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6673,7 +6619,6 @@
 	(hierarchical_label "GPIO22"
 		(shape bidirectional)
 		(at 137.16 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6685,7 +6630,6 @@
 	(hierarchical_label "GPIO2"
 		(shape bidirectional)
 		(at 137.16 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6697,7 +6641,6 @@
 	(hierarchical_label "GPIO21"
 		(shape bidirectional)
 		(at 137.16 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6709,7 +6652,6 @@
 	(hierarchical_label "GPIO29{slash}AD3"
 		(shape bidirectional)
 		(at 137.16 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6721,7 +6663,6 @@
 	(hierarchical_label "GPIO20"
 		(shape bidirectional)
 		(at 137.16 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6733,7 +6674,6 @@
 	(hierarchical_label "GPIO19"
 		(shape bidirectional)
 		(at 137.16 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6745,7 +6685,6 @@
 	(hierarchical_label "IOVDD"
 		(shape passive)
 		(at 30.48 22.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6757,7 +6696,6 @@
 	(hierarchical_label "GPIO23"
 		(shape bidirectional)
 		(at 137.16 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6769,7 +6707,6 @@
 	(hierarchical_label "GPIO8"
 		(shape bidirectional)
 		(at 137.16 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6781,7 +6718,6 @@
 	(hierarchical_label "GPIO17"
 		(shape bidirectional)
 		(at 137.16 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6793,7 +6729,6 @@
 	(hierarchical_label "RUN"
 		(shape input)
 		(at 71.12 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6805,7 +6740,6 @@
 	(hierarchical_label "GPIO11"
 		(shape bidirectional)
 		(at 137.16 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6817,7 +6751,6 @@
 	(hierarchical_label "GPIO9"
 		(shape bidirectional)
 		(at 137.16 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6829,7 +6762,6 @@
 	(hierarchical_label "GPIO1"
 		(shape bidirectional)
 		(at 137.16 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6841,7 +6773,6 @@
 	(hierarchical_label "GPIO7"
 		(shape bidirectional)
 		(at 137.16 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6853,7 +6784,6 @@
 	(hierarchical_label "GPIO12"
 		(shape bidirectional)
 		(at 137.16 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6865,7 +6795,6 @@
 	(hierarchical_label "GPIO3"
 		(shape bidirectional)
 		(at 137.16 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7081,23 +7010,25 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "0d827006-bd96-4aae-b209-e5199bb2962e")
 		(property "Reference" "R13"
-			(at 78.105 169.545 90)
+			(at 81.5086 166.4278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 81.915 169.545 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -7199,6 +7130,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 81.5086 168.8521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
+			(at 80.01 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc0b06fa-4ae5-417d-9f0b-0fdafd2c7dac")
 		)
@@ -7225,7 +7192,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e8733fc-c126-4d2d-ab01-c5813ba2fb04")
 		(property "Reference" "C23"
-			(at 121.7041 176.5942 0)
+			(at 121.7041 176.5941 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7233,13 +7200,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 121.7041 179.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -7269,7 +7237,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -7333,6 +7301,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 119.38 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 121.7041 179.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 119.38 177.8 0)
 			(effects
 				(font
@@ -7692,7 +7696,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d439697-fd37-4c72-b42b-77b6ae548a0a")
 		(property "Reference" "C18"
-			(at 121.7041 166.4342 0)
+			(at 121.7041 166.4341 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7700,13 +7704,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 121.7041 168.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -7736,7 +7741,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 119.38 167.64 0)
 			(effects
 				(font
@@ -7800,6 +7805,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 119.38 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 121.7041 168.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 119.38 167.64 0)
 			(effects
 				(font
@@ -7966,7 +8007,7 @@
 		(fields_autoplaced yes)
 		(uuid "4fce6e23-81a9-465e-a66f-3618163317b7")
 		(property "Reference" "C24"
-			(at 131.8641 176.5942 0)
+			(at 131.8641 176.5941 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7974,13 +8015,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 131.8641 179.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -8010,7 +8052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 129.54 177.8 0)
 			(effects
 				(font
@@ -8074,6 +8116,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 129.54 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 131.8641 179.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 129.54 177.8 0)
 			(effects
 				(font
@@ -8174,7 +8252,7 @@
 		(fields_autoplaced yes)
 		(uuid "57030cb7-87b8-42da-8466-564c0bac5930")
 		(property "Reference" "C21"
-			(at 159.8041 174.0542 0)
+			(at 159.8041 174.0541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8182,13 +8260,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 159.8041 176.4784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -8218,7 +8297,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 157.48 175.26 0)
 			(effects
 				(font
@@ -8290,6 +8369,42 @@
 				(hide yes)
 			)
 		)
+		(property "Display Value" "100n"
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 159.8041 176.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
+			(at 157.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38fddf92-ac58-469c-9087-55d0b445fa5e")
 		)
@@ -8314,23 +8429,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "663dfb03-0f58-40bf-89e9-731ba6a27707")
 		(property "Reference" "R10"
-			(at 75.565 111.125 90)
+			(at 73.66 111.6767 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "R_1k_0402"
 			(at 75.565 107.315 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -8424,6 +8540,41 @@
 			)
 		)
 		(property "MF" ""
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "CR0402-FX-1001GLFCT-ND"
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "1k"
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "1k"
+			(at 73.66 114.101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Variant" ""
 			(at 73.66 109.22 0)
 			(effects
 				(font
@@ -8581,6 +8732,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "311-3643-1-ND"
+			(at 55.88 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07d3ff3e-540c-446f-afe9-81214b006de7")
 		)
@@ -8605,9 +8765,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "67635d0b-1b2e-4f76-9758-e92055eea9fe")
 		(property "Reference" "R15"
-			(at 23.495 172.085 90)
+			(at 23.9014 168.9678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8615,13 +8776,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 27.305 172.085 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -8715,6 +8877,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 25.4 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 23.9014 171.3921 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 25.4 170.18 0)
 			(effects
 				(font
@@ -9083,7 +9281,7 @@
 		(fields_autoplaced yes)
 		(uuid "7782ae43-c4b5-4721-9f63-0bd67fe4e151")
 		(property "Reference" "R9"
-			(at 75.1586 47.236 0)
+			(at 75.1586 47.0478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9091,13 +9289,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 75.1586 49.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -9199,6 +9398,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 75.1586 49.4721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
+			(at 73.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "023314f8-f9fd-490c-a75d-e5e98424ee15")
 		)
@@ -9225,7 +9460,7 @@
 		(fields_autoplaced yes)
 		(uuid "78e83f15-f032-4352-9de9-114ff30c70fb")
 		(property "Reference" "C19"
-			(at 131.8641 166.4342 0)
+			(at 131.8641 166.4341 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9233,13 +9468,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 131.8641 168.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -9269,7 +9505,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 129.54 167.64 0)
 			(effects
 				(font
@@ -9333,6 +9569,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 129.54 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 131.8641 168.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 129.54 167.64 0)
 			(effects
 				(font
@@ -9433,7 +9705,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ee2a9d7-1b8e-43df-be25-261554f25402")
 		(property "Reference" "C17"
-			(at 111.5441 166.4342 0)
+			(at 111.5441 166.4341 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9441,13 +9713,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 111.5441 168.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -9477,7 +9750,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 109.22 167.64 0)
 			(effects
 				(font
@@ -9541,6 +9814,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 109.22 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 111.5441 168.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 109.22 167.64 0)
 			(effects
 				(font
@@ -9726,12 +10035,13 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "C_1u_0603_50V"
 			(at 96.52 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
@@ -9825,6 +10135,33 @@
 			)
 		)
 		(property "MF" ""
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-12330-1-ND"
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "1u"
+			(at 96.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "1u"
 			(at 96.52 43.18 0)
 			(effects
 				(font
@@ -9973,6 +10310,15 @@
 			)
 		)
 		(property "MF" ""
+			(at 55.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "311-3643-1-ND"
 			(at 55.88 99.06 0)
 			(effects
 				(font
@@ -10256,12 +10602,13 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "C_1u_0603_50V"
 			(at 124.46 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
@@ -10363,6 +10710,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "490-12330-1-ND"
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "1u"
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "1u"
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "969c9bc7-aeb2-47de-bcb2-c6eafb2fb517")
 		)
@@ -10387,23 +10761,25 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "a31b26ec-5419-49c2-98ce-7ff7b972de22")
 		(property "Reference" "R12"
-			(at 71.755 169.545 90)
+			(at 75.1586 166.4278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 75.565 169.545 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10505,6 +10881,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 75.1586 168.8521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
+			(at 73.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "666eb6a6-eac0-4c7f-bb0c-9519d866927b")
 		)
@@ -10531,7 +10943,7 @@
 		(fields_autoplaced yes)
 		(uuid "a343b675-7027-4a8f-a36b-d9c7bd6ff0cf")
 		(property "Reference" "C22"
-			(at 111.5441 176.5942 0)
+			(at 111.5441 176.5941 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10539,13 +10951,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 111.5441 179.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -10575,7 +10988,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 109.22 177.8 0)
 			(effects
 				(font
@@ -10639,6 +11052,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 109.22 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 111.5441 179.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Variant" ""
 			(at 109.22 177.8 0)
 			(effects
 				(font
@@ -11240,23 +11689,25 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "e0256d6f-2e26-454e-852c-74a6fbd91fd9")
 		(property "Reference" "R14"
-			(at 84.455 169.545 90)
+			(at 87.8586 166.4278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 88.265 169.545 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -11358,6 +11809,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 87.8586 168.8521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
+			(at 86.36 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc0c624d-91bc-493e-a1dd-8619c2e451a2")
 		)
@@ -11381,21 +11868,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "e1bc654c-b930-42fd-b446-1da05847a337")
 		(property "Reference" "C16"
-			(at 57.15 162.56 90)
+			(at 57.1436 161.9334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 57.15 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -11425,7 +11914,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 57.15 167.64 0)
 			(effects
 				(font
@@ -11489,6 +11978,41 @@
 			)
 		)
 		(property "MF" ""
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 57.15 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 57.1436 164.3577 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Variant" ""
 			(at 57.15 167.64 0)
 			(effects
 				(font
@@ -11587,23 +12111,25 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "fa151650-9a60-48a4-9107-72ada4e6f63b")
 		(property "Reference" "R11"
-			(at 65.405 169.545 90)
+			(at 68.8086 166.4278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "R_10k_0402"
 			(at 69.215 169.545 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -11705,6 +12231,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigikeyPN" "10-ERJ-U02F1002XCT-ND"
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "10k"
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "10k"
+			(at 68.8086 168.8521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
+			(at 67.31 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e61be5e-9388-428b-92e4-1cb4afedbbe6")
 		)
@@ -11731,7 +12293,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb5b524f-0856-45aa-ac2b-fa4e4d2cc1ba")
 		(property "Reference" "C20"
-			(at 147.536 174.0542 0)
+			(at 147.536 174.0541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11739,13 +12301,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "C_100n_0402_50V"
 			(at 147.536 176.4784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -11775,7 +12338,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05A104KA5NNNC"
+		(property "MPN" "GRM155R71H104KE14J"
 			(at 149.86 175.26 0)
 			(effects
 				(font
@@ -11839,6 +12402,42 @@
 			)
 		)
 		(property "MF" ""
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display Value" "100n"
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigikeyPN" "490-13342-1-ND"
+			(at 149.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Display_Value" "100n"
+			(at 147.536 176.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Variant" ""
 			(at 149.86 175.26 0)
 			(effects
 				(font
