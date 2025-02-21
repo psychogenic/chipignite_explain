@@ -30809,7 +30809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 80.01 161.29 0)
 			(effects
 				(font
@@ -31054,6 +31054,15 @@
 			)
 		)
 		(property "LCSC" "C5673"
+			(at 254 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 254 119.38 0)
 			(effects
 				(font
@@ -32636,6 +32645,15 @@
 				(hide yes)
 			)
 		)
+		(property "Characteristics" "10u 10V XR 0805"
+			(at 266.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84d1f191-7392-4fcd-ac85-7e84353cd5a5")
 		)
@@ -33728,7 +33746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "Red LED 0603"
 			(at 157.48 161.29 0)
 			(effects
 				(font
@@ -35545,6 +35563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Characteristics" "10u 10V XR 0805"
+			(at 245.11 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02b727bd-f8d2-483b-99fb-9ae505d9eebc")
 		)
@@ -36297,6 +36324,15 @@
 			)
 		)
 		(property "LCSC" "C408142"
+			(at 259.08 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "10u 10V XR 0805"
 			(at 259.08 119.38 0)
 			(effects
 				(font
@@ -38560,7 +38596,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "87abd0dd-5f0a-49eb-9ca9-f679f8028f2d")
 		(property "Reference" "J5"
@@ -43432,7 +43468,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f07c0d2f-8cb8-4b7c-913e-c5120b46497c")
 		(property "Reference" "J6"
@@ -43635,6 +43671,15 @@
 			)
 		)
 		(property "LCSC" "C5673"
+			(at 240.03 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 240.03 119.38 0)
 			(effects
 				(font

@@ -7663,7 +7663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 66.04 40.64 0)
 			(effects
 				(font
@@ -7899,7 +7899,7 @@
 				(justify left)
 			)
 		)
-		(property "Characteristics" "C 0603 4u7"
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 58.42 134.62 0)
 			(effects
 				(font
@@ -9372,7 +9372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 256.54 99.06 0)
 			(effects
 				(font
@@ -9598,7 +9598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 156.21 101.6 0)
 			(effects
 				(font
@@ -9759,7 +9759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 146.05 101.6 0)
 			(effects
 				(font
@@ -9955,6 +9955,15 @@
 				(hide yes)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 121.92 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f71c96a4-6eca-4a7e-827c-118f35ae92af")
 		)
@@ -10054,6 +10063,15 @@
 			)
 		)
 		(property "MF" ""
+			(at 129.54 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "RGB LED"
 			(at 129.54 170.18 0)
 			(effects
 				(font
@@ -10185,6 +10203,15 @@
 			)
 		)
 		(property "Display_Value" "4.7u"
+			(at 140.97 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 140.97 40.64 0)
 			(effects
 				(font
@@ -10415,7 +10442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 259.08 58.42 0)
 			(effects
 				(font
@@ -10649,7 +10676,7 @@
 				(justify left)
 			)
 		)
-		(property "Characteristics" "C 0603 4u7"
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 38.1 175.26 0)
 			(effects
 				(font
@@ -11330,7 +11357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 26.67 134.62 0)
 			(effects
 				(font
@@ -11689,7 +11716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 203.2 43.18 0)
 			(effects
 				(font
@@ -11944,7 +11971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 83.82 138.43 0)
 			(effects
 				(font
@@ -12227,6 +12254,15 @@
 			)
 		)
 		(property "Display_Value" "10u"
+			(at 78.74 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "10u 0603"
 			(at 78.74 176.53 0)
 			(effects
 				(font
@@ -12598,7 +12634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 256.54 140.97 0)
 			(effects
 				(font
@@ -13245,7 +13281,7 @@
 				(justify left)
 			)
 		)
-		(property "Characteristics" "C 0603 1u"
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 63.5 154.94 0)
 			(effects
 				(font
@@ -13473,6 +13509,15 @@
 			)
 		)
 		(property "Display_Value" "4.7u"
+			(at 72.39 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 72.39 40.64 0)
 			(effects
 				(font
@@ -13934,6 +13979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 209.55 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e19a723-8606-4156-a064-e6cde86acc08")
 		)
@@ -14360,6 +14414,15 @@
 			)
 		)
 		(property "MF" ""
+			(at 151.13 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" "Yellow LED 0603"
 			(at 151.13 58.42 0)
 			(effects
 				(font
@@ -15756,7 +15819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 134.62 134.62 0)
 			(effects
 				(font
@@ -17005,7 +17068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 44.45 175.26 0)
 			(effects
 				(font
@@ -17325,7 +17388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 71.12 176.53 0)
 			(effects
 				(font
@@ -17486,7 +17549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 167.64 101.6 0)
 			(effects
 				(font
@@ -18815,7 +18878,7 @@
 				(justify right)
 			)
 		)
-		(property "Characteristics" "C 0603 1u"
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 34.29 154.94 0)
 			(effects
 				(font
@@ -18967,7 +19030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 134.62 40.64 0)
 			(effects
 				(font
