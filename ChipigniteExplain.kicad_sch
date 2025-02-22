@@ -8,7 +8,7 @@
 		(title "ChipIgnite Explain")
 		(date "2025-02-21")
 		(rev "1.1")
-		(company "Psychogenic Technologies ")
+		(company "Psychogenic Technologies for efabless")
 		(comment 1 "(C) 2024-2025 Pat Deegan")
 	)
 	(lib_symbols
@@ -29557,9 +29557,9 @@
 		)
 		(uuid "add71ad1-e74f-4790-8061-fb0294347557")
 	)
-	(text "Efabless Explain FPGA ASIC Teaching Board"
+	(text "ChipIgnite/Efabless Explain FPGA ASIC Teaching Board"
 		(exclude_from_sim no)
-		(at 156.21 17.526 0)
+		(at 146.304 17.526 0)
 		(effects
 			(font
 				(size 6 6)
