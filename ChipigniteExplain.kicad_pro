@@ -829,13 +829,13 @@
           "group_by": false,
           "label": "Display Value",
           "name": "Display Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Display_Value",
           "name": "Display_Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

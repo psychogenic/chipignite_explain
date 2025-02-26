@@ -294,6 +294,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a8a11fb0-fab0-49f7-b582-27ed2dad9ea6")
 			(effects
 				(font
@@ -460,7 +461,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/76760d31-5292-43d1-9332-b3cee5c736d5")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -832,7 +833,7 @@
 		)
 		(property ki_fp_filters "SOT?223* SOT?89* TO?220* TO?252* TO?263*")
 		(path "/fc621a5c-fbaa-4edb-b049-7a188b006cd3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1127,6 +1128,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "baddbf87-205f-4f86-b1dc-856cf0da5b41")
 			(effects
 				(font
@@ -1187,9 +1189,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7e637d9-4c79-4082-87fc-70214cb46b7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "188345d0-6da6-44ea-a8f1-f2f37028bfcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fce1b96e-2056-4d42-bc23-1a0ac0307126")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9dc909e9-4265-4d67-b857-39233b27ab5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4cb9417c-a860-4a81-b872-9ff8d4d9b338")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1481,7 +1535,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1587,7 +1641,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0900ca12-60b2-4439-ac64-56e2c96dfc26")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1753,6 +1807,7 @@
 		(property "Value" "R_68R_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "44fb87e4-1405-4480-878d-30d556d0cf12")
 			(effects
 				(font
@@ -1880,7 +1935,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/e626fc6a-27f0-4e68-a325-600c1f71dfb1")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2046,6 +2101,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e51ba146-74f0-49a8-a0f7-2543f879b300")
 			(effects
 				(font
@@ -2106,9 +2162,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7eec4df3-2c59-4fff-a9b4-c0ab9139dc5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de99ddce-d3c6-4bd8-b6a4-93eb17b04072")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10f89bee-2f8a-4758-80a3-0b9b67d6ae73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad6d6363-5dcd-4c6a-b347-0291c9d1fe6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a9ab21d4-54a3-485d-b086-5002c581febb")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2274,6 +2382,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "046c767f-fe45-411b-940d-739d507b6c9f")
 			(effects
 				(font
@@ -2479,7 +2588,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/f424b3d3-48e0-4c06-90a9-2312efa22ec1")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2925,7 +3034,7 @@
 			)
 		)
 		(path "/83aad5e3-e62f-4136-9437-9c2a4e61c64c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3534,7 +3643,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1a31cf57-1543-4f61-9974-75fe3892c51d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3765,6 +3874,7 @@
 		(property "Value" "BAS19"
 			(at 0 2.4 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "cd95f669-6a3a-4f35-a882-3b11f158761d")
 			(effects
 				(font
@@ -3903,7 +4013,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/9e81499d-a59f-4b27-9e97-ecd1b2f0cf7e")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -4123,6 +4233,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "213a43e2-7f32-4e39-8038-e5939870a0d7")
 			(effects
 				(font
@@ -4289,7 +4400,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/a9cc968a-f2b4-4e79-8781-16ee6e7da2ef")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4455,6 +4566,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "fb9ad24b-1d2e-4779-99fb-30ab030fbcdd")
 			(effects
 				(font
@@ -4517,7 +4629,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c3544dc4-cf9e-4f94-970b-2c42334febd3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4652,6 +4764,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "70eb875b-e5d1-42ac-9a65-c487a5a3f946")
 			(effects
 				(font
@@ -4725,7 +4838,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0603 4u7"
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4779,7 +4892,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/032fc0a1-f03f-4981-ac68-fc998f198451")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5125,7 +5238,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7a81e994-f350-4ce9-9d25-ba31771a7ac8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -5290,6 +5403,7 @@
 		(property "Value" "434121025816"
 			(at 1 3.1 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "427df2e1-c92f-42e2-8573-5858b28637da")
 			(effects
 				(font
@@ -5427,7 +5541,7 @@
 			)
 		)
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/ced1c752-dfd4-4378-8660-ff64ffb6b624")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5710,6 +5824,7 @@
 		(property "Value" "434121025816"
 			(at 1 3.1 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ea499da3-5d04-41d6-a46a-7bf58528ad93")
 			(effects
 				(font
@@ -5847,7 +5962,7 @@
 			)
 		)
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/21b7598b-25e4-49f7-be9a-0925db9729d3")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6131,6 +6246,7 @@
 		(property "Value" "C_1u_0603_50V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1ceb8dad-71b1-4d7f-b6d7-217e4398370a")
 			(effects
 				(font
@@ -6230,9 +6346,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "1u 10V XR 0603"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cc5c8f2-1fec-424a-9cdf-d087276a0ccd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0a030382-bc51-4a2b-b579-3c549147ca7d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6563,7 +6692,7 @@
 		)
 		(property ki_fp_filters "SOIC*5.23x5.23mm*P1.27mm*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/9e5e3d26-9843-4423-a5f6-61def8e7a4b3")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6873,6 +7002,7 @@
 		(property "Value" "C_10u_0805_35V"
 			(at 0 1.68 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "769d3331-e36b-4f1a-afaa-92507e6203e9")
 			(effects
 				(font
@@ -7024,9 +7154,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "10u 10V XR 0805"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34b0723a-978b-46a8-b89f-55f420ee24be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6c9ee16c-bb35-43ef-8883-7cffcc521df7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7192,6 +7335,7 @@
 		(property "Value" "R_68R_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "598dae10-b89e-4cbd-b6fa-34cd3a17d685")
 			(effects
 				(font
@@ -7319,7 +7463,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/e020c5e0-b520-49ad-9875-c40ef39a48b6")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7485,6 +7629,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7e8e9b4e-ba21-4cfa-b66b-27ccba453cd8")
 			(effects
 				(font
@@ -7545,9 +7690,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22bf7dd6-8889-469c-95c9-90fc90ab7890")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccc8769c-55aa-4c1a-9aa9-7bc80a50bb15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d393fc93-01ad-4c61-963a-c357df94c0cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ba5bc6e-14c9-460d-8325-c7013aaac889")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c62fb53a-5119-4e8d-a074-33d4019ec9ba")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7906,7 +8103,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/e0256d6f-2e26-454e-852c-74a6fbd91fd9")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8594,6 +8791,7 @@
 		(property "Value" "1N4448WT"
 			(at 0 1.4 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "089cd679-368a-47aa-bdb5-eb4ef7759562")
 			(effects
 				(font
@@ -8734,7 +8932,7 @@
 		)
 		(property ki_fp_filters "D*SOD?523*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/9c7bd100-b136-4094-8233-9eebf614c313")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9167,6 +9365,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b0e5f014-943d-44c5-ba1e-61db20da2873")
 			(effects
 				(font
@@ -9227,9 +9426,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ea24263-0c33-46e6-8c49-0ecaffdec456")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17c6db28-b744-4ae5-9dad-ca449112b43c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e672af7-f964-4674-817e-8eea3503e267")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e5df02d-0c4a-45ec-bdbf-36873ac15a0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b66d6703-1280-48e4-8e50-5af1ccf44c27")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9460,6 +9711,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0c78cf03-e8d3-4cb1-89e9-e547ed9f46c0")
 			(effects
 				(font
@@ -9559,7 +9811,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9665,7 +9917,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/d1f4fc10-4909-4024-8dbc-5c6026e0f3d4")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10024,7 +10276,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/57030cb7-87b8-42da-8466-564c0bac5930")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10190,6 +10442,7 @@
 		(property "Value" "RGB"
 			(at 0.47 1.48 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "786daedc-c235-4809-8587-47aae4fb3d44")
 			(effects
 				(font
@@ -10274,8 +10527,60 @@
 				)
 			)
 		)
+		(property "Characteristics" "RGB LED"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7749de11-64c4-45a3-8435-b965a46b902d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Variant" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6d0ea56-b396-4498-951d-90887a3e32f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN_ALT" "EAST1616RGBB2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a3cd03f-a6df-4452-a573-4147972dd087")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5628891 or C6606484"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66abe5ed-5fcd-4cd7-b8ef-b77e14c50571")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/44e52ba9-6f32-4f68-9562-0e73945666bb")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10644,7 +10949,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/80c2e9b5-9114-4a20-9a0e-5bd903331406")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11033,6 +11338,7 @@
 		(property "Value" "R_1k_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4c620e12-c4b1-40de-a08a-16879a935752")
 			(effects
 				(font
@@ -11171,9 +11477,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "1k 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b778d9cc-4d0a-4a79-8608-88dd4b096806")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/fb93b087-8f21-4711-a23b-3ff731f09c50")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11505,7 +11824,7 @@
 		)
 		(property ki_fp_filters "QFN*1EP*7x7mm?P0.4mm*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/38c7dd1b-7a2f-4363-91fe-c5ee029f0aa9")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12334,6 +12653,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e018c4b1-814f-460a-815f-e34b8631bab4")
 			(effects
 				(font
@@ -12396,7 +12716,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/bee1168e-b9a7-4e9d-bf40-2beac23591c3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -12531,6 +12851,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bfe9a045-9db7-497c-9e8e-12f23cab2203")
 			(effects
 				(font
@@ -12591,9 +12912,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c03ef98-3412-434f-8b1a-6ebe54661f2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7f69772-b511-4189-88a9-6c34f3b754c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84857452-2a6e-4f0e-bb48-61715a614337")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc5f5324-0217-40e8-9b1b-638ee42a9027")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/679fcaab-72c0-4997-8798-3dba3b9070fa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12759,6 +13132,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d94e70c7-2870-4ad2-ad17-43e96640ad71")
 			(effects
 				(font
@@ -12819,9 +13193,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73d6320f-fc91-4e99-a0a0-1aa641b37b88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe7084ec-020a-4a6e-8e11-cf8cd92c4070")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57c372a8-4de5-42ce-898a-c2d61f65a941")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e814962-95a6-492f-99a5-73b5d73842c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/28306c13-67f1-43e2-bb2f-5f3bb8afc558")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12987,6 +13413,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2c2db784-88f1-496a-91d4-c799f192d1af")
 			(effects
 				(font
@@ -13114,7 +13541,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/84da234f-7580-4657-8cee-096b1787c46f")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -13182,6 +13609,7 @@
 		(property "Value" "Fiducial"
 			(at 0 2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e5b4b499-568c-4324-beb1-dc5485ea0e89")
 			(effects
 				(font
@@ -13244,7 +13672,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/2aac3e48-c0ba-4cbc-811b-b77fe59e49dc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -13670,7 +14098,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "SWITCH TACTILE SPST-NO"
+		(property "Characteristics" "MOM SPST NO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13775,7 +14203,7 @@
 			)
 		)
 		(path "/65ead6c8-f27c-4900-888a-f083415a054e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13994,6 +14422,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1b3481bf-8c34-4b6b-84f7-ac570d002b69")
 			(effects
 				(font
@@ -14067,7 +14496,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0603 4u7"
+		(property "Characteristics" "4.7u 10% 0603"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14121,7 +14550,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/5185dfaa-47a2-4d85-b69d-392d9b5f1ec3")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14482,6 +14911,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c85ebb82-e46a-4aeb-8963-9ff9631a334b")
 			(effects
 				(font
@@ -14542,9 +14972,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6617555a-6413-483f-86a4-562d0032fbf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7478ac31-b30a-4f12-9880-68483ac9b4f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaf2e43a-72b1-4e0d-a8e0-61e56d3926de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71415c94-5085-4f41-8430-7ddfce6b08fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1209759e-3ab8-47a4-af4e-8f4ae938ebd0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14710,6 +15192,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bc4625c1-4306-4cca-bc78-7ecf4ccb3119")
 			(effects
 				(font
@@ -14770,9 +15253,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f0e4c1f-a1b4-47b2-b1eb-c2a7def7bbce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a75aab36-e06b-4876-b2ae-598ff6af91a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba1bc4a5-57b6-4241-acbe-a9a43238fd44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af672e2a-f2e9-4eb6-9b19-554bb486850e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6e4515aa-c7b3-4b04-8471-5f1c9995f482")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14938,6 +15473,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "65d6e9db-a82d-49ff-b0c1-c6b077183c1a")
 			(effects
 				(font
@@ -14998,7 +15534,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15104,7 +15640,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/4d87a7dc-cbff-445c-95a2-e5eb7a774c38")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15335,6 +15871,7 @@
 		(property "Value" "DMN2005K"
 			(at 0 2.4 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9f933ae9-80fb-4f7f-a38a-75ba500bcb4c")
 			(effects
 				(font
@@ -15498,7 +16035,7 @@
 			)
 		)
 		(path "/4002fdb8-5f94-4b22-82f5-f51dd8c18495")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15805,7 +16342,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "R 0402 1k5 1%"
+		(property "Characteristics" "1k 0402"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15872,7 +16409,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/82a8751b-1a4f-46d2-848f-c788cb2fd870")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16103,6 +16640,7 @@
 		(property "Value" "C_1u_0603_50V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9cc0df13-9f8b-40a4-a2e1-027de5237d5b")
 			(effects
 				(font
@@ -16202,9 +16740,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "1u 10V XR 0603"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "113a4ae9-6abf-4f2a-990e-810b98dcae87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f5b34d6d-2537-4c39-b38b-706359aa42b7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16370,6 +16921,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e48aea09-7e5d-4493-9224-8780af452dbb")
 			(effects
 				(font
@@ -16430,7 +16982,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16536,7 +17088,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/f8a24ba6-d5dc-4239-b99c-b4741a7688ba")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16702,6 +17254,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e3fcaf62-3f9c-4acd-af44-7b3829022646")
 			(effects
 				(font
@@ -16762,9 +17315,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8afbbffe-93d8-4e2a-8039-a6927a24fb03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e35b8a06-06b7-406d-85a7-3fabdd265b89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d047d572-73e8-4c6f-bde5-a708e5f94e51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b75554cb-a374-4f7c-bea4-14fb6f7254ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c9a79d4b-233d-46c6-94e8-02d1e7298546")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17110,7 +17715,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/a203a77e-8ed2-4810-bfd4-4195f7cc1cde")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17409,6 +18014,7 @@
 		(property "Value" "R_100R_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "85671565-91a6-4093-8005-0977f9c832ca")
 			(effects
 				(font
@@ -17560,9 +18166,35 @@
 				)
 			)
 		)
+		(property "Characteristics" "100R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c35e8ed6-7c43-416f-9fc6-0773b0b842c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C106232"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "210413fe-55b2-4166-94fe-98b494d6bffc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/d723ef97-3a43-473b-b7cb-dbc2b69bd1e2")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17794,6 +18426,7 @@
 		(property "Value" "C_10u_0603_10V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "51fdc988-3191-4d17-b197-1e5a26e3e5a4")
 			(effects
 				(font
@@ -17945,9 +18578,48 @@
 				)
 			)
 		)
+		(property "Characteristics" "10u 0603"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e80d26bc-4794-42db-a3da-55ffd8422c6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C3860591"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4900c24-7875-48c0-9a06-dd6465978fd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN_ALT" "GRT188R61A106KE13J"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "614b1217-7e4f-4368-8ad1-011f80440b38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/6c915ff9-a3dc-4b9c-ab2e-90bef8f48ddf")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18113,6 +18785,7 @@
 		(property "Value" "R_0R_0603_JUMPER"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d9f03eeb-2343-48ff-bf38-fe7445c28860")
 			(effects
 				(font
@@ -18186,9 +18859,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "0R 0603"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d11b98f-93e3-434c-8b13-91da4028d9dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/913779eb-f9e8-4914-a59b-cbb0298861a2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18701,6 +19387,7 @@
 		(property "Value" "R_1k_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9d54c72e-fe17-414c-9d96-c4f52fa779e6")
 			(effects
 				(font
@@ -18839,9 +19526,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "1k 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "549b8974-03ec-4a1d-b04f-aa43de1700d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/c0c38219-4e01-4044-b781-40b3c4364f2f")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19072,6 +19772,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "271f386f-9ef3-4bfa-93dd-7e7613cc9626")
 			(effects
 				(font
@@ -19184,9 +19885,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03c7470f-a9d3-45d8-aab4-337c5ce3048e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/4500bcab-0cf5-4cc9-8294-154a38150978")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19352,6 +20066,7 @@
 		(property "Value" "AP2112K-1.2"
 			(at 0 2.4 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "80e0ee15-b3d9-4104-b270-eec7eddd22b2")
 			(effects
 				(font
@@ -19490,7 +20205,7 @@
 		)
 		(property ki_fp_filters "SOT?23?5*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/8f920621-9ce9-40e2-8fcb-f37c3a5d9b5e")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19765,7 +20480,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "Red LED 0603"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19791,7 +20506,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "LTST-C190KRKT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19804,7 +20519,7 @@
 				)
 			)
 		)
-		(property "MPN_ALT" ""
+		(property "MPN_ALT" "EAST16084RA0"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19817,7 +20532,7 @@
 				)
 			)
 		)
-		(property "DigikeyPN" ""
+		(property "DigikeyPN" "160-1436-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19856,9 +20571,22 @@
 				)
 			)
 		)
+		(property "LCSC" "C94869"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1a1bd9f-6521-49ef-ae34-d602b9e95bc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3781203e-e5cc-475a-baa7-ff9f87c2ceb8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20176,6 +20904,7 @@
 		(property "Value" "R_1k_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2aa60397-8b8b-4877-b1e0-3d49c88f0633")
 			(effects
 				(font
@@ -20314,9 +21043,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "1k 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9054ca89-768c-415d-9e8d-07c50e87de4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/24c98fe8-4f90-4f18-8b9a-2af40989199e")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20675,7 +21417,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/a343b675-7027-4a8f-a36b-d9c7bd6ff0cf")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20930,7 +21672,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/ba3d49d1-9362-49b8-938a-1682d5c7ab25")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
@@ -21278,7 +22020,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/16fe8ab1-93dc-4b9a-b984-6bbca118f45e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -21444,6 +22186,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7eb1f81f-b828-4dd2-9fca-85fd685c0b95")
 			(effects
 				(font
@@ -21504,7 +22247,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21610,7 +22353,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/75fd924d-051e-48ba-a74f-25e0857fd9ab")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21971,6 +22714,7 @@
 		(property "Value" "Fiducial"
 			(at 0 2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ba4ec21c-ead5-4e0b-9594-3e6f2217bc90")
 			(effects
 				(font
@@ -22033,7 +22777,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/c23913cf-7a50-48c7-ba8e-3a62b72e9736")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -22100,6 +22844,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ac6c4002-fac6-4180-9005-0f85cc121f36")
 			(effects
 				(font
@@ -22160,9 +22905,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23ec5e1f-112f-4c87-a4b8-8ecd08ea4c01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8d50599-4142-4804-a20e-314f009122f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1ac73b8-9df9-46df-a935-a419e9339359")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5aa9993c-518a-46e1-b4c2-d6253e44e701")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/81aa4d90-3d91-4be5-b1fd-1624ab348886")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22328,6 +23125,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d14f48a2-da46-480d-9ff2-8be6848d41d0")
 			(effects
 				(font
@@ -22388,9 +23186,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bfd72e2-4a61-408b-9270-45822dfbfa93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "510dec0f-3f63-457b-ab8a-8e3cda878569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbe3942f-c5af-40e5-9467-bbfc1b1115f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a386f774-3bcb-4f60-b530-bddf32a0346d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a19e3b52-cec6-4a27-8cd7-a96e86e447f2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22556,6 +23406,7 @@
 		(property "Value" "Yellow"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "596e0c12-67aa-4cfa-8ec5-c3309c197e3e")
 			(effects
 				(font
@@ -22696,7 +23547,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b3b315c-81f8-44d9-af35-f4b90291b201")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22884,6 +23735,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "36895b39-d74f-422f-8554-e4d2f2b2ea55")
 			(effects
 				(font
@@ -23089,7 +23941,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/789a44d4-d264-48d8-abc5-389e47f6e054")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23385,6 +24237,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.75 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9a54a5ee-e697-4636-9708-318e5fad92f0")
 			(effects
 				(font
@@ -23512,7 +24365,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/9a668ab5-c518-4457-8247-83dc834cbb1d")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -23706,9 +24559,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "5k1 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d6017ac-12d1-4695-85e3-7e905176ebbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/11019d0e-f638-439c-94e5-0dfdd24a3d3e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23939,6 +24805,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c6f3e5f7-605e-4ada-9f85-2a5101e6a960")
 			(effects
 				(font
@@ -23999,9 +24866,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4886e0f2-58eb-4497-af4e-a71b38b272ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f27b71d2-68dc-4b50-ad49-6d5ba580663c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18fbd792-a966-43cf-b840-c884317a977c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1ebb891-e3f4-4a20-af74-2be81796a215")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/be81225b-f77d-48d2-97bd-5569e6370697")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24167,6 +25086,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "54c0f0fa-5e1b-44fb-935a-98aa7d839c73")
 			(effects
 				(font
@@ -24227,9 +25147,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ef24cb8-0c86-410a-b0f8-b3cd27201291")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "587dc3ab-9283-4bad-958f-ff1a280dd34b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b96b0196-55a0-49a6-9f76-55b5165abc67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c17fe22-e503-4561-b070-1e63199f50d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/90ea7467-0d32-4069-9f73-ea93f5ddb389")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24395,6 +25367,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "26885316-eeae-4158-b94f-12fb3de45d90")
 			(effects
 				(font
@@ -24455,9 +25428,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5b0e29d-2319-49c6-969b-79f84aa992de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6bed55d-832d-4247-931d-deb63d57b92e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0dc2e17d-4e31-40a8-810c-e482f75f1bf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c48c7b02-43f8-48ba-8159-83cf5da15d99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/acb56f64-1be4-446d-b9cd-2a9f16c2fd89")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24623,6 +25648,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d83cf6fc-fb4b-48d9-9ff3-5881e84ce3f0")
 			(effects
 				(font
@@ -24685,7 +25711,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8d97d72b-1335-48bb-88e8-d537c6d29b08")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -24881,9 +25907,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "5k1 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "057f4915-de57-4028-82e6-ae0f82f4bd5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0ffc5bb1-df68-4650-bc99-796f05712c1c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25049,6 +26088,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.75 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bb53a9d1-40dc-4182-b828-b8d1054686bb")
 			(effects
 				(font
@@ -25176,7 +26216,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/9d8d6dc6-291d-4f97-8d39-7c4a57d63ac5")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -25411,7 +26451,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/861bc144-30be-4e8b-a281-91ed20e971d5")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25809,7 +26849,7 @@
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/e2c0cd2c-4c3b-4975-b912-a024d625a664")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25977,6 +27017,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.75 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9fb3a204-cddf-4940-85a6-fa84025442c5")
 			(effects
 				(font
@@ -26104,7 +27145,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/862cba28-6007-4820-98b8-1082453443eb")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -26172,6 +27213,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2af391c3-3a0f-41fb-a819-e9b31b571753")
 			(effects
 				(font
@@ -26232,9 +27274,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fb23057-8cb6-409a-a391-ac308a894026")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e28bbc78-ef8b-4596-a3a3-ef7b21bd317f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8d11a0b-0f56-4b95-9839-a1734e53d507")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8776855-0247-4a51-bdca-b049c38b565e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/63c1bf1b-1c14-45d0-a217-11d7ccfa4c43")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26658,7 +27752,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/78e83f15-f032-4352-9de9-114ff30c70fb")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26889,6 +27983,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "97225f82-cee1-46e5-b704-6473b02cdc4d")
 			(effects
 				(font
@@ -27001,9 +28096,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70ffa6ec-dad3-4d20-bb89-48b426a7eab0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/8ca76aaa-c2ca-46ac-bc7b-4a60afbc8c1d")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27169,6 +28277,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e27d4d63-eaa7-4e3f-879e-d8e43afa0935")
 			(effects
 				(font
@@ -27229,9 +28338,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ff60301-c3df-4bcb-83a6-d2190cdec3b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a99c148-0a04-47cc-ad53-d79a70501677")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec6efd1b-0487-45ab-bee1-07bf4de2e427")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acd88136-03b2-4296-804c-03a6cc528041")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4a4d7ae5-8adb-4db4-a553-c3b8810604ca")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27462,6 +28623,7 @@
 		(property "Value" "TestPoint"
 			(at 0 1.75 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0080aa3b-d59b-4a54-b818-0cf6ce46af58")
 			(effects
 				(font
@@ -27589,7 +28751,7 @@
 		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/90c22843-c2f3-4cf6-93fa-eee121d7c854")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -27824,7 +28986,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/664e4561-e380-44cd-98a4-eba121aca4f9")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27990,6 +29152,7 @@
 		(property "Value" "C_1u_0603_50V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "11b628ed-a7db-4247-959a-d944cfca0d95")
 			(effects
 				(font
@@ -28063,7 +29226,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0603 1u"
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28130,7 +29293,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/7c09a33a-0035-4dc2-b4bf-cc3e1baeb82a")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28296,6 +29459,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6d65ff41-c7b2-4fb1-b588-c464406365e8")
 			(effects
 				(font
@@ -28408,9 +29572,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "054ca4b0-effa-4c0c-a5a6-e25cb2b3e801")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/41448b7d-c142-4a1b-bd81-d7466ab626d7")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28821,7 +29998,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/94238599-1554-4bd5-8942-7de38c60288d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29180,7 +30357,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/7782ae43-c4b5-4721-9f63-0bd67fe4e151")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29576,7 +30753,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0402FR-07100RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29589,7 +30766,7 @@
 				)
 			)
 		)
-		(property "DigikeyPN" ""
+		(property "DigikeyPN" "311-100LRCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29615,7 +30792,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100R 0402"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29680,9 +30857,22 @@
 				)
 			)
 		)
+		(property "LCSC" "C106232"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a106c30-277a-4ffe-b47d-908c36f7470f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4078cdbe-2b61-448f-9b8d-c8b03d5e0213")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29913,6 +31103,7 @@
 		(property "Value" "Yellow"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d8c43663-54eb-449a-b572-dbda663d8676")
 			(effects
 				(font
@@ -30053,7 +31244,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a5ef0beb-d7ec-459e-853d-9d828acb58bf")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30241,6 +31432,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4914b50c-ad0f-4a74-888b-9388f6d2a5e8")
 			(effects
 				(font
@@ -30301,7 +31493,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30407,7 +31599,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/37bb85fa-0920-448e-8503-c0cd4c58497b")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30779,7 +31971,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/bdcfeed3-8de3-4286-9e2f-fc9ed39ba98a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31110,7 +32302,7 @@
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/7bf95b0e-a43c-4dfb-9b40-fc52e5ce0952")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31680,7 +32872,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/b878ca2f-d788-4586-b72b-7e06eca25376")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -31845,6 +33037,7 @@
 		(property "Value" "434121025816"
 			(at 1 3.1 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d5ca2049-c2e4-4dea-bee9-d47284f3f272")
 			(effects
 				(font
@@ -31982,7 +33175,7 @@
 			)
 		)
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/7038ed68-6e25-4a6f-968a-80d376e18b51")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32342,7 +33535,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d153c923-8d2a-4d57-b2a1-c83c95131ff4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32701,7 +33894,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/4fce6e23-81a9-465e-a66f-3618163317b7")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -32867,6 +34060,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c8dff721-7cd1-463e-b417-1007101802dd")
 			(effects
 				(font
@@ -32927,7 +34121,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33033,7 +34227,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/6180a088-30cc-4812-9627-b1c01065bb22")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33405,7 +34599,7 @@
 		)
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/6345e1c6-a023-4cef-81ef-c753cdc2f65c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -33571,6 +34765,7 @@
 		(property "Value" "LED"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "24bfbfb3-1c1f-43ba-923c-efb3c7ef4c14")
 			(effects
 				(font
@@ -33631,9 +34826,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "Yellow LED 0603"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "180cae1a-5c96-4559-bb33-fff47cfabd6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/9476df10-b142-4302-9334-af888f62928a")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -34066,7 +35274,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/42ad7bbe-8466-4974-be2b-f5a81734c4cf")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34425,7 +35633,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/2e8733fc-c126-4d2d-ab01-c5813ba2fb04")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -34656,6 +35864,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "46a1350b-4a74-4e0e-8ce2-38470f2d379b")
 			(effects
 				(font
@@ -34861,7 +36070,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/53f007c8-e60c-4b43-855c-39fd8980ee27")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -35027,6 +36236,7 @@
 		(property "Value" "C_1u_0603_50V"
 			(at 0 1.43 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4c2896cf-f4e8-4849-91f6-2b33e1d23ca8")
 			(effects
 				(font
@@ -35100,7 +36310,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0603 1u"
+		(property "Characteristics" "1u 10V XR 0603"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35193,7 +36403,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/f6bcadf6-0e85-4f44-89f7-19d7d3710a4f")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36184,7 +37394,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/71b80c5f-787a-409c-947d-221ceac51289")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36480,6 +37690,7 @@
 		(property "Value" "C_10u_0805_35V"
 			(at 0 1.68 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6f611b7e-3563-4ce0-8d36-4e921dd054b6")
 			(effects
 				(font
@@ -36631,9 +37842,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "10u 10V XR 0805"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dcb5c77a-360b-4152-a322-1800b623fc55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1fdd6764-c792-4908-94f2-e3c7291294f0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -36799,6 +38023,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c93cbeda-addd-42bf-a092-1df083d2f349")
 			(effects
 				(font
@@ -36859,9 +38084,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c8f4840-6711-4184-abc3-bdb849c93145")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12064733-b103-4df7-950e-2bc116935cdd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4894a3da-053d-42ff-8c7d-65e75ea52a30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f7a89fb-f1fb-4135-a206-79d7f88c008e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/635029b0-9c81-4818-873f-f0e5fc880501")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -37027,6 +38304,7 @@
 		(property "Value" "613012243121"
 			(at -5.65 15.47 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "aadd7337-8edf-43c1-b08e-a756f8da0a40")
 			(effects
 				(font
@@ -37086,9 +38364,9 @@
 			)
 		)
 		(path "/87abd0dd-5f0a-49eb-9ca9-f679f8028f2d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.11 -1.33)
 			(end 1.11 0)
@@ -38175,6 +39453,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "be6980f0-a166-4ed2-aba6-6a9332f635b8")
 			(effects
 				(font
@@ -38274,7 +39553,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38380,7 +39659,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/686cd708-b61d-4d66-992f-6f748ed9212c")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38611,6 +39890,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "22b8772f-0f29-42be-8b23-4ce603f10a9b")
 			(effects
 				(font
@@ -38671,7 +39951,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38777,7 +40057,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/ac6b495d-f072-49f3-b94b-ca3b041248eb")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -38945,6 +40225,7 @@
 			(at 0.7 4.7 90)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "cfc84c02-e20b-40f3-8f19-6a7d7b7178cf")
 			(effects
 				(font
@@ -39109,7 +40390,7 @@
 		)
 		(property ki_fp_filters "KCSC02?106*")
 		(path "/34d41a3d-1744-480c-8b3a-3e97b723ebcc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -39623,6 +40904,7 @@
 		(property "Value" "Conn_01x03"
 			(at 0 7.41 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ef325899-7615-4433-aa82-db07f67a0cef")
 			(effects
 				(font
@@ -39724,7 +41006,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c1bb7dbd-e07e-4a65-b68e-e505d105ee4d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
@@ -39955,6 +41237,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3b178c77-eb68-4105-82f0-25b94cfb5b40")
 			(effects
 				(font
@@ -40015,7 +41298,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40121,7 +41404,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/34ba3fb7-ffd3-42b9-8791-f326223af5e5")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40454,7 +41737,7 @@
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6f66e47e-2e21-456c-9bb8-dec47609e919")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -40687,6 +41970,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8239969e-98d4-48e1-b09f-7ffdea0af548")
 			(effects
 				(font
@@ -40747,9 +42031,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47a493a3-a5a6-418b-8007-f546706285fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37d1429b-c289-473b-a6f5-62c7e8247c5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05e6ce81-5f5d-4aec-9b2d-5787248550b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af8d0831-6030-4806-84c6-da086f8c7210")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/381e2381-c008-40e9-9039-2192f6473586")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41303,7 +42639,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/fb5b524f-0856-45aa-ac2b-fa4e4d2cc1ba")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -41469,6 +42805,7 @@
 		(property "Value" "Conn_01x02"
 			(at 0 4.87 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "85b8a732-3ec5-4b79-a574-a9f0350f0f31")
 			(effects
 				(font
@@ -41622,7 +42959,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/41101e6e-5fb1-47eb-98e8-abb11f8c2ef2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
@@ -41842,6 +43179,7 @@
 		(property "Value" "R_10k_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "af2f6edc-813b-4358-a228-30988f2c2a46")
 			(effects
 				(font
@@ -42008,7 +43346,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/0658597e-73ea-49fe-a588-0b1bef527537")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -42367,7 +43705,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1b3196a0-16b4-4565-a916-5b7ba7e2aefa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -42533,6 +43871,7 @@
 		(property "Value" "R_100R_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7991358c-66e7-4936-9331-4cfdc63fba73")
 			(effects
 				(font
@@ -42645,7 +43984,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "R 0402 100R"
+		(property "Characteristics" "100R 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42697,9 +44036,22 @@
 				)
 			)
 		)
+		(property "LCSC" "C106232"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9f16579-d392-4877-a9dc-e81f5d42b107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/af334abc-1736-4098-832c-b2d8479ba8c4")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43188,7 +44540,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/fa151650-9a60-48a4-9107-72ada4e6f63b")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43354,6 +44706,7 @@
 		(property "Value" "Fiducial"
 			(at 0 2 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "72bd0872-e5c3-46b5-8e18-17e6f80cd70e")
 			(effects
 				(font
@@ -43416,7 +44769,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/20cd6815-7d9c-4c4b-9e0f-cce8497e8d42")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -43483,6 +44836,7 @@
 		(property "Value" "510R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7c3a1b52-277c-4aeb-8b4b-cadf957bcc5e")
 			(effects
 				(font
@@ -43543,9 +44897,61 @@
 				)
 			)
 		)
+		(property "Characteristics" "510R 0402"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3710655-d56c-46de-95fe-041f2e94ea0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "311-510JRCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acb31658-02a2-4aa2-9d2f-d0487b295dc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C137860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a77f909f-2ec0-4117-858c-a7d047426604")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402JR-07510RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43a5f7d2-647d-4ca3-9013-4ba32cc1e7fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ca42f692-3aa3-4d93-a7b9-05ad9424b929")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -43891,7 +45297,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/75c116b2-6a90-480d-9a63-f6e1284cb901")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -44059,6 +45465,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b4c2c4e3-c2a3-44ce-8d67-8552806be25c")
 			(effects
 				(font
@@ -44225,7 +45632,7 @@
 		)
 		(property ki_fp_filters "SW?DIP?x8*")
 		(path "/82149cfc-6723-451c-a737-7aeaae767f84")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -44805,6 +46212,7 @@
 		(property "Value" "24MHz"
 			(at 0 2.5 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ff1272cc-24ee-4250-b1ac-ac9bdc50afb5")
 			(effects
 				(font
@@ -44930,11 +46338,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45150f3b-dea6-4963-a2f8-fce69534e5bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Oscillator*SMD*ECS*2520MV*2.5x2.0mm*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/09611ac3-24d1-4073-8adc-c1849a273642")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.38 -1.56)
 			(end -1.07 -1.56)
@@ -45429,7 +46850,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/663dfb03-0f58-40bf-89e9-731ba6a27707")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -45708,7 +47129,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "1k 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45801,7 +47222,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ba63ba84-2365-4ba9-8f95-e8f42945fbb7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46292,7 +47713,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/e1bc654c-b930-42fd-b446-1da05847a337")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46638,7 +48059,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/85c9387b-18de-4820-9eae-2660c01e0952")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -46997,7 +48418,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/3d439697-fd37-4c72-b42b-77b6ae548a0a")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -47291,7 +48712,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/0c9c930c-9efb-41e6-aa72-71bbc4047e03")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
@@ -47755,7 +49176,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/87b80a2a-c6df-4721-bb26-f6facf73c47e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48231,7 +49652,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7a572dd5-e950-425d-b40e-d5262ab41dbe")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -48593,6 +50014,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "703a2be1-f97b-48eb-9ca9-2dc890c0d5e5")
 			(effects
 				(font
@@ -48653,7 +50075,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48759,7 +50181,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/013b2432-fdde-4a17-a259-0d42b512d877")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -48927,6 +50349,7 @@
 			(at 0 1.25 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b2189974-64d3-4e72-a095-a11f506cc914")
 			(effects
 				(font
@@ -49054,7 +50477,7 @@
 		)
 		(property ki_fp_filters "Texas*DPY0002A*")
 		(path "/e8e92835-677d-48e4-9a98-f2682af0f28b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_circle
@@ -49245,9 +50668,9 @@
 			)
 		)
 		(path "/f07c0d2f-8cb8-4b7c-913e-c5120b46497c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.11 -1.33)
 			(end 1.11 0)
@@ -50461,7 +51884,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/7ee2a9d7-1b8e-43df-be25-261554f25402")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -50823,6 +52246,7 @@
 		(property "Value" "C_10u_0805_35V"
 			(at 0 1.68 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4dc8153d-95a6-4b42-9d3e-b7b9232fbfb5")
 			(effects
 				(font
@@ -50974,9 +52398,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "10u 10V XR 0805"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd24cc42-8ad8-49c9-b23e-849326b37251")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/61484fed-14dd-4ce5-9c02-e9ac970184b0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51142,6 +52579,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3d359c44-9375-4e07-9a15-b9a5f57c1a34")
 			(effects
 				(font
@@ -51202,7 +52640,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51308,7 +52746,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/d688855a-8f93-4116-9bfd-d83a9077de32")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -51474,6 +52912,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "67761463-b777-48b7-b269-6cbdb54905e9")
 			(effects
 				(font
@@ -52070,6 +53509,7 @@
 		(property "Value" "Yellow"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4d595a22-ebf8-4138-9511-87d0f55a8c30")
 			(effects
 				(font
@@ -52210,7 +53650,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ed4fb29a-a3e3-4f2d-93a7-3df2987c3af0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -52395,9 +53835,10 @@
 				)
 			)
 		)
-		(property "Value" "ICE40UP5K-SG48ITR"
+		(property "Value" "ICE40UP5K-SG48I"
 			(at 0 4.83 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f7d8ce50-22ca-4d5b-91e2-806587dcfc80")
 			(effects
 				(font
@@ -52430,7 +53871,7 @@
 				)
 			)
 		)
-		(property "MPN" "ICE40UP5K-SG48ITR"
+		(property "MPN" "ICE40UP5K-SG48I"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52469,9 +53910,74 @@
 				)
 			)
 		)
+		(property "Characteristics" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2706b16a-7082-41cf-b551-d6e842a0b911")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Variant" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8d1bd16-1e66-4a3f-b333-824882b6a0dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN_ALT" "ICE40UP5K-SG48ITR50"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c4dbe8a-3225-40ae-b8dd-29d9d2fab01a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigikeyPN" "220-2212-1-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c61ee5e-6a76-466e-96b4-a22478faf92b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2678152"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf18abe8-df07-4a81-9743-8a5a3e5469f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "QFN*1EP*7x7mm*P0.5mm*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/ecbe0ae1-5b2d-4799-bf96-44cd05b547e2")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53304,6 +54810,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8b91e770-1569-41ce-9154-b237a285b857")
 			(effects
 				(font
@@ -53364,7 +54871,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53470,7 +54977,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/36c8ddf4-e838-4da3-8ca1-c7c598ac7d40")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -53829,7 +55336,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/0d827006-bd96-4aae-b209-e5199bb2962e")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54255,6 +55762,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "5975c763-c5b1-4e4c-a922-dbd35b086614")
 			(effects
 				(font
@@ -54315,7 +55823,7 @@
 				)
 			)
 		)
-		(property "Characteristics" "C 0402 100n"
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54421,7 +55929,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/cf1d2b11-ae86-425f-85f7-19ae43647ff8")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -54910,7 +56418,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/a31b26ec-5419-49c2-98ce-7ff7b972de22")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -55295,7 +56803,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1224b9e0-48f2-4ea2-bff0-7d7cec6ba850")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd dnp)
 		(fp_line
@@ -55581,6 +57089,7 @@
 		(property "Value" "C_4p7u_0603_25V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8d46efab-0f22-4360-be40-d1f223966213")
 			(effects
 				(font
@@ -55693,9 +57202,22 @@
 				)
 			)
 		)
+		(property "Characteristics" "4.7u 10% 0603"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8ae0586-e63c-4da3-81c2-574dd07e8d73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/7e2a2fcb-6dca-4d55-aff7-a622be9d0d5c")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56133,7 +57655,7 @@
 		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/d4d65100-0b16-4f65-b9ee-c44f70627c21")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56492,7 +58014,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/67635d0b-1b2e-4f76-9758-e92055eea9fe")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56658,6 +58180,7 @@
 		(property "Value" "R_1k2_0402"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e6b2173b-bc26-4ea9-9688-f92cf6172e68")
 			(effects
 				(font
@@ -56759,7 +58282,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d01e8360-6fdb-4201-88ec-1cccd8a10628")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "ChipigniteExplain.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -56925,6 +58448,7 @@
 		(property "Value" "R_100R_0402"
 			(at 0 1.17 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "388efebc-2c56-47ca-97be-3199e9df9256")
 			(effects
 				(font
@@ -57076,9 +58600,35 @@
 				)
 			)
 		)
+		(property "Characteristics" "100R 0402"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da64bc6c-e232-4525-bc18-89b7a0f9b1e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C106232"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36ee30db-9181-4054-859f-46f7353bc0fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/c13971a8-0545-439a-8616-250f94eff10a")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -57244,6 +58794,7 @@
 		(property "Value" "C_100n_0402_50V"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "05d38049-8383-4b75-9be9-e1473fc0d91e")
 			(effects
 				(font
@@ -57304,7 +58855,7 @@
 				)
 			)
 		)
-		(property "Characteristics" ""
+		(property "Characteristics" "100n 10% 25V XR 0402"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57410,7 +58961,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/da07f808-bd69-4cc5-b448-e52192b4258c/657d7a53-c290-4763-ac01-113548ae031f")
-		(sheetname "FPGA_UP5k")
+		(sheetname "/FPGA_UP5k/")
 		(sheetfile "fpga_up5k.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -59739,7 +61290,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8fa14198-24b5-440b-8eed-10aac596cf1e/68e7be2f-66fa-4dfe-a842-b9c583c91db1")
-		(sheetname "RP2040")
+		(sheetname "/RP2040/")
 		(sheetfile "rp2040.kicad_sch")
 		(attr smd dnp)
 		(fp_line
