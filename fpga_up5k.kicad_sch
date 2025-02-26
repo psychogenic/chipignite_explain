@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "1a6759b8-08a2-4983-bb7f-66f7e9c0642d")
 	(paper "A4")
+	(title_block
+		(date "2025-02-21")
+		(rev "1.2")
+		(company "Psychogenic Technologies for efabless")
+		(comment 1 "(C) 2024-2025 Pat Deegan")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers
